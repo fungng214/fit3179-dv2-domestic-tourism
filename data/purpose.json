@@ -1,0 +1,146 @@
+[
+  {
+    "trip_type": "Overnight",
+    "purpose": "Holiday",
+    "label": "Holiday",
+    "year": 2025,
+    "trips": 12105.351,
+    "trips_m": 12.105351,
+    "source": "Table 3a!B6"
+  },
+  {
+    "trip_type": "Overnight",
+    "purpose": "Holiday",
+    "label": "Holiday",
+    "year": 2026,
+    "trips": 12952.173,
+    "trips_m": 12.952173,
+    "source": "Table 3a!C6"
+  },
+  {
+    "trip_type": "Overnight",
+    "purpose": "Visiting friends and relatives",
+    "label": "Friends / relatives",
+    "year": 2025,
+    "trips": 10572.929,
+    "trips_m": 10.572929,
+    "source": "Table 3a!B7"
+  },
+  {
+    "trip_type": "Overnight",
+    "purpose": "Visiting friends and relatives",
+    "label": "Friends / relatives",
+    "year": 2026,
+    "trips": 10407.733,
+    "trips_m": 10.407733,
+    "source": "Table 3a!C7"
+  },
+  {
+    "trip_type": "Overnight",
+    "purpose": "Business",
+    "label": "Business",
+    "year": 2025,
+    "trips": 3251.184,
+    "trips_m": 3.2511840000000003,
+    "source": "Table 3a!B8"
+  },
+  {
+    "trip_type": "Overnight",
+    "purpose": "Business",
+    "label": "Business",
+    "year": 2026,
+    "trips": 2024.272,
+    "trips_m": 2.024272,
+    "source": "Table 3a!C8"
+  },
+  {
+    "trip_type": "Overnight",
+    "purpose": "Other",
+    "label": "Other",
+    "year": 2025,
+    "trips": 2042.375,
+    "trips_m": 2.042375,
+    "source": "Table 3a!B9"
+  },
+  {
+    "trip_type": "Overnight",
+    "purpose": "Other",
+    "label": "Other",
+    "year": 2026,
+    "trips": 2116.511,
+    "trips_m": 2.116511,
+    "source": "Table 3a!C9"
+  },
+  {
+    "trip_type": "Day trip",
+    "purpose": "Holiday",
+    "label": "Holiday",
+    "year": 2025,
+    "trips": 34707.615,
+    "trips_m": 34.707615,
+    "source": "Table 7a!B6"
+  },
+  {
+    "trip_type": "Day trip",
+    "purpose": "Holiday",
+    "label": "Holiday",
+    "year": 2026,
+    "trips": 37859.837,
+    "trips_m": 37.859837,
+    "source": "Table 7a!C6"
+  },
+  {
+    "trip_type": "Day trip",
+    "purpose": "Visiting friends and relatives",
+    "label": "Friends / relatives",
+    "year": 2025,
+    "trips": 20881.281,
+    "trips_m": 20.881280999999998,
+    "source": "Table 7a!B7"
+  },
+  {
+    "trip_type": "Day trip",
+    "purpose": "Visiting friends and relatives",
+    "label": "Friends / relatives",
+    "year": 2026,
+    "trips": 22795.447,
+    "trips_m": 22.795447,
+    "source": "Table 7a!C7"
+  },
+  {
+    "trip_type": "Day trip",
+    "purpose": "Business",
+    "label": "Business",
+    "year": 2025,
+    "trips": 5410.249,
+    "trips_m": 5.410248999999999,
+    "source": "Table 7a!B8"
+  },
+  {
+    "trip_type": "Day trip",
+    "purpose": "Business",
+    "label": "Business",
+    "year": 2026,
+    "trips": 5060.079,
+    "trips_m": 5.060079,
+    "source": "Table 7a!C8"
+  },
+  {
+    "trip_type": "Day trip",
+    "purpose": "Other",
+    "label": "Other",
+    "year": 2025,
+    "trips": 8016.195,
+    "trips_m": 8.016195,
+    "source": "Table 7a!B9"
+  },
+  {
+    "trip_type": "Day trip",
+    "purpose": "Other",
+    "label": "Other",
+    "year": 2026,
+    "trips": 8525.692,
+    "trips_m": 8.525692,
+    "source": "Table 7a!C9"
+  }
+]

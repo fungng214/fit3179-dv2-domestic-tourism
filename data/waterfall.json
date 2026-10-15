@@ -1,0 +1,74 @@
+[
+  {
+    "group": "Accommodation",
+    "order": 0,
+    "start": 0,
+    "end": 455.1869999999999,
+    "change": 455.1869999999999,
+    "kind": "Increase"
+  },
+  {
+    "group": "Airfares",
+    "order": 1,
+    "start": 455.1869999999999,
+    "end": 435.8319999999999,
+    "change": -19.355000000000018,
+    "kind": "Decrease"
+  },
+  {
+    "group": "Meals",
+    "order": 2,
+    "start": 435.8319999999999,
+    "end": 419.71100000000024,
+    "change": -16.12099999999964,
+    "kind": "Decrease"
+  },
+  {
+    "group": "Petrol",
+    "order": 3,
+    "start": 419.71100000000024,
+    "end": 367.2420000000002,
+    "change": -52.46900000000005,
+    "kind": "Decrease"
+  },
+  {
+    "group": "Groceries",
+    "order": 4,
+    "start": 367.2420000000002,
+    "end": 416.9000000000003,
+    "change": 49.65800000000013,
+    "kind": "Increase"
+  },
+  {
+    "group": "Shopping",
+    "order": 5,
+    "start": 416.9000000000003,
+    "end": 208.85000000000014,
+    "change": -208.05000000000018,
+    "kind": "Decrease"
+  },
+  {
+    "group": "Drinks",
+    "order": 6,
+    "start": 208.85000000000014,
+    "end": 74.92300000000023,
+    "change": -133.9269999999999,
+    "kind": "Decrease"
+  },
+  {
+    "group": "Other spending",
+    "order": 7,
+    "start": 74.92300000000023,
+    "end": 540.0910000000013,
+    "change": 465.16800000000103,
+    "kind": "Increase"
+  },
+  {
+    "group": "Net change",
+    "order": 8,
+    "start": 0,
+    "end": 540.0910000000003,
+    "change": 540.0910000000003,
+    "kind": "Net change"
+  }
+]

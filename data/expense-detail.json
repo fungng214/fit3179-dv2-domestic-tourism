@@ -1,0 +1,162 @@
+[
+  {
+    "item": "Domestic airfares",
+    "group": "Airfares",
+    "v2025": 3865.324,
+    "v2026": 3845.969,
+    "source_2025": "Table 4a!B6",
+    "source_2026": "Table 4a!F6"
+  },
+  {
+    "item": "Package Tours",
+    "group": "Other spending",
+    "v2025": 342.724,
+    "v2026": 468.082,
+    "source_2025": "Table 4a!B7",
+    "source_2026": "Table 4a!F7"
+  },
+  {
+    "item": "Organised Tours",
+    "group": "Other spending",
+    "v2025": 270.855,
+    "v2026": 286.015,
+    "source_2025": "Table 4a!B8",
+    "source_2026": "Table 4a!F8"
+  },
+  {
+    "item": "Rental vehicles",
+    "group": "Other spending",
+    "v2025": 383.016,
+    "v2026": 390.721,
+    "source_2025": "Table 4a!B9",
+    "source_2026": "Table 4a!F9"
+  },
+  {
+    "item": "Petrol",
+    "group": "Petrol",
+    "v2025": 2750.021,
+    "v2026": 2697.552,
+    "source_2025": "Table 4a!B10",
+    "source_2026": "Table 4a!F10"
+  },
+  {
+    "item": "Vehicle maintenance/repairs",
+    "group": "Other spending",
+    "v2025": 146.162,
+    "v2026": 243.014,
+    "source_2025": "Table 4a!B11",
+    "source_2026": "Table 4a!F11"
+  },
+  {
+    "item": "Taxi",
+    "group": "Other spending",
+    "v2025": 292.229,
+    "v2026": 318.533,
+    "source_2025": "Table 4a!B12",
+    "source_2026": "Table 4a!F12"
+  },
+  {
+    "item": "Other local public transport",
+    "group": "Other spending",
+    "v2025": 120.662,
+    "v2026": 141.071,
+    "source_2025": "Table 4a!B13",
+    "source_2026": "Table 4a!F13"
+  },
+  {
+    "item": "Long distance public transport",
+    "group": "Other spending",
+    "v2025": 891.741,
+    "v2026": 1027.628,
+    "source_2025": "Table 4a!B14",
+    "source_2026": "Table 4a!F14"
+  },
+  {
+    "item": "Accommodation",
+    "group": "Accommodation",
+    "v2025": 6798.264,
+    "v2026": 7253.451,
+    "source_2025": "Table 4a!B15",
+    "source_2026": "Table 4a!F15"
+  },
+  {
+    "item": "Groceries for self-catering",
+    "group": "Groceries",
+    "v2025": 1410.812,
+    "v2026": 1460.47,
+    "source_2025": "Table 4a!B16",
+    "source_2026": "Table 4a!F16"
+  },
+  {
+    "item": "Alcohol, drinks (not already reported)",
+    "group": "Drinks",
+    "v2025": 1253.433,
+    "v2026": 1119.506,
+    "source_2025": "Table 4a!B17",
+    "source_2026": "Table 4a!F17"
+  },
+  {
+    "item": "Takeaways and restaurant meals",
+    "group": "Meals",
+    "v2025": 3856.894,
+    "v2026": 3840.773,
+    "source_2025": "Table 4a!B18",
+    "source_2026": "Table 4a!F18"
+  },
+  {
+    "item": "Shopping / gifts /souvenirs",
+    "group": "Shopping",
+    "v2025": 1534.304,
+    "v2026": 1326.254,
+    "source_2025": "Table 4a!B19",
+    "source_2026": "Table 4a!F19"
+  },
+  {
+    "item": "Entertainment",
+    "group": "Other spending",
+    "v2025": 658.033,
+    "v2026": 640.042,
+    "source_2025": "Table 4a!B20",
+    "source_2026": "Table 4a!F20"
+  },
+  {
+    "item": "Gambling",
+    "group": "Other spending",
+    "v2025": 109.409,
+    "v2026": 136.219,
+    "source_2025": "Table 4a!B21",
+    "source_2026": "Table 4a!F21"
+  },
+  {
+    "item": "Education fees",
+    "group": "Other spending",
+    "v2025": 47.37,
+    "v2026": 40.327,
+    "source_2025": "Table 4a!B22",
+    "source_2026": "Table 4a!F22"
+  },
+  {
+    "item": "Convention / Conference / Seminar / Trade fair",
+    "group": "Other spending",
+    "v2025": 144.109,
+    "v2026": 145.29,
+    "source_2025": "Table 4a!B23",
+    "source_2026": "Table 4a!F23"
+  },
+  {
+    "item": "Other expenditure nfd",
+    "group": "Other spending",
+    "v2025": 318.156,
+    "v2026": 322.774,
+    "source_2025": "Table 4a!B24",
+    "source_2026": "Table 4a!F24"
+  },
+  {
+    "item": "Unallocated expenditure and rounding residual",
+    "group": "Other spending",
+    "v2025": -0.0010000000002037268,
+    "v2026": 29.91700000000128,
+    "source_2025": "Table 4a!B25 minus SUM(B6:B24)",
+    "source_2026": "Table 4a!F25 minus SUM(F6:F24)"
+  }
+]

@@ -1,0 +1,299 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 860,
+  "height": 310,
+  "padding": 2,
+  "data": [
+    {
+      "name": "tree",
+      "values": [
+        {
+          "id": "All spending",
+          "parent": null,
+          "value": 0,
+          "period": "April–June 2026"
+        },
+        {
+          "id": "Airfares",
+          "parent": "All spending",
+          "value": 3845.969,
+          "share": 14.945315868649278,
+          "items": "Domestic airfares",
+          "period": "April–June 2026"
+        },
+        {
+          "id": "Other spending",
+          "parent": "All spending",
+          "value": 4189.633000000001,
+          "share": 16.280783479720373,
+          "items": "Package Tours, Organised Tours, Rental vehicles, Vehicle maintenance/repairs, Taxi, Other local public transport, Long distance public transport, Entertainment, Gambling, Education fees, Convention / Conference / Seminar / Trade fair, Other expenditure nfd, Unallocated expenditure and rounding residual",
+          "period": "April–June 2026"
+        },
+        {
+          "id": "Petrol",
+          "parent": "All spending",
+          "value": 2697.552,
+          "share": 10.482603139054579,
+          "items": "Petrol",
+          "period": "April–June 2026"
+        },
+        {
+          "id": "Accommodation",
+          "parent": "All spending",
+          "value": 7253.451,
+          "share": 28.186684898596422,
+          "items": "Accommodation",
+          "period": "April–June 2026"
+        },
+        {
+          "id": "Groceries",
+          "parent": "All spending",
+          "value": 1460.47,
+          "share": 5.675340978225829,
+          "items": "Groceries for self-catering",
+          "period": "April–June 2026"
+        },
+        {
+          "id": "Drinks",
+          "parent": "All spending",
+          "value": 1119.506,
+          "share": 4.35036548314562,
+          "items": "Alcohol, drinks (not already reported)",
+          "period": "April–June 2026"
+        },
+        {
+          "id": "Meals",
+          "parent": "All spending",
+          "value": 3840.773,
+          "share": 14.92512437432015,
+          "items": "Takeaways and restaurant meals",
+          "period": "April–June 2026"
+        },
+        {
+          "id": "Shopping",
+          "parent": "All spending",
+          "value": 1326.254,
+          "share": 5.153781778287755,
+          "items": "Shopping / gifts /souvenirs",
+          "period": "April–June 2026"
+        }
+      ],
+      "transform": [
+        {
+          "type": "stratify",
+          "key": "id",
+          "parentKey": "parent"
+        },
+        {
+          "type": "treemap",
+          "field": "value",
+          "sort": {
+            "field": "value",
+            "order": "descending"
+          },
+          "method": "squarify",
+          "ratio": 1.4,
+          "size": [
+            {
+              "signal": "width"
+            },
+            {
+              "signal": "height"
+            }
+          ],
+          "paddingInner": 4,
+          "paddingOuter": 0
+        }
+      ]
+    },
+    {
+      "name": "leaves",
+      "source": "tree",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "datum.depth === 1"
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "colour",
+      "type": "ordinal",
+      "domain": [
+        "Accommodation",
+        "Airfares",
+        "Meals",
+        "Petrol",
+        "Groceries",
+        "Shopping",
+        "Drinks",
+        "Other spending"
+      ],
+      "range": [
+        "#17665b",
+        "#3c8274",
+        "#6a9b8a",
+        "#afc6b8",
+        "#e0c39f",
+        "#cda573",
+        "#c5c9b4",
+        "#e5e5d7"
+      ]
+    }
+  ],
+  "marks": [
+    {
+      "type": "rect",
+      "from": {
+        "data": "leaves"
+      },
+      "encode": {
+        "enter": {
+          "cornerRadius": {
+            "value": 4
+          }
+        },
+        "update": {
+          "x": {
+            "field": "x0"
+          },
+          "x2": {
+            "field": "x1"
+          },
+          "y": {
+            "field": "y0"
+          },
+          "y2": {
+            "field": "y1"
+          },
+          "fill": {
+            "scale": "colour",
+            "field": "id"
+          },
+          "tooltip": {
+            "signal": "{'Period':datum.period,'Spending item':datum.id,'Spending (AUD billion)':format(datum.value/1000,'.3f'),'Share of overnight spending':format(datum.share,'.1f')+'%','Includes':datum.items}"
+          }
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {
+        "data": "leaves"
+      },
+      "encode": {
+        "update": {
+          "x": {
+            "signal": "(datum.x0+datum.x1)/2"
+          },
+          "y": {
+            "signal": "(datum.y0+datum.y1)/2 - 7"
+          },
+          "text": {
+            "field": "id"
+          },
+          "font": {
+            "value": "Arial"
+          },
+          "fontSize": {
+            "signal": "datum.x1-datum.x0 < 100 ? 10 : 14"
+          },
+          "fontWeight": {
+            "value": "bold"
+          },
+          "align": {
+            "value": "center"
+          },
+          "baseline": {
+            "value": "middle"
+          },
+          "fill": {
+            "signal": "indexof(['Accommodation','Airfares','Meals'],datum.id)>=0 ? 'white' : '#243b3a'"
+          },
+          "tooltip": {
+            "signal": "{'Period':datum.period,'Spending item':datum.id,'Spending (AUD billion)':format(datum.value/1000,'.3f'),'Share of overnight spending':format(datum.share,'.1f')+'%','Includes':datum.items}"
+          }
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {
+        "data": "leaves"
+      },
+      "encode": {
+        "update": {
+          "x": {
+            "signal": "(datum.x0+datum.x1)/2"
+          },
+          "y": {
+            "signal": "(datum.y0+datum.y1)/2 + 14"
+          },
+          "text": {
+            "signal": "'A$'+format(datum.value/1000,'.2f')+'bn'"
+          },
+          "font": {
+            "value": "Arial"
+          },
+          "fontSize": {
+            "value": 12
+          },
+          "align": {
+            "value": "center"
+          },
+          "baseline": {
+            "value": "middle"
+          },
+          "fill": {
+            "signal": "indexof(['Accommodation','Airfares','Meals'],datum.id)>=0 ? 'white' : '#243b3a'"
+          },
+          "tooltip": {
+            "signal": "{'Period':datum.period,'Spending item':datum.id,'Spending (AUD billion)':format(datum.value/1000,'.3f'),'Share of overnight spending':format(datum.share,'.1f')+'%','Includes':datum.items}"
+          }
+        }
+      }
+    }
+  ],
+  "description": "How is overnight travel expenditure divided between spending categories in June quarter 2026? Rectangle area encodes mutually exclusive spending groups. Small source items and unallocated expenditure are explicitly combined into Other spending. This uses expenditure categories rather than overlapping visit purposes.",
+  "config": {
+    "background": "transparent",
+    "font": "Arial",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": "normal",
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "gridColor": "#e3e8e1",
+      "domain": false,
+      "tickColor": "#c5cec7",
+      "labelPadding": 7,
+      "titlePadding": 13
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "orient": "bottom",
+      "titleFontWeight": "normal",
+      "titleLimit": 400,
+      "labelLimit": 210,
+      "padding": 8
+    },
+    "text": {
+      "font": "Arial",
+      "color": "#243b3a"
+    }
+  },
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding",
+    "resize": true
+  }
+}
