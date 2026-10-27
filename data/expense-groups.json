@@ -1,0 +1,74 @@
+[
+  {
+    "group": "Airfares",
+    "v2025": 3865.324,
+    "v2026": 3845.969,
+    "value_b": 3.845969,
+    "change": -19.355000000000018,
+    "share": 14.945315868649278,
+    "items": "Domestic airfares"
+  },
+  {
+    "group": "Other spending",
+    "v2025": 3724.4649999999997,
+    "v2026": 4189.633000000001,
+    "value_b": 4.189633000000001,
+    "change": 465.16800000000103,
+    "share": 16.280783479720373,
+    "items": "Package Tours, Organised Tours, Rental vehicles, Vehicle maintenance/repairs, Taxi, Other local public transport, Long distance public transport, Entertainment, Gambling, Education fees, Convention / Conference / Seminar / Trade fair, Other expenditure nfd, Unallocated expenditure and rounding residual"
+  },
+  {
+    "group": "Petrol",
+    "v2025": 2750.021,
+    "v2026": 2697.552,
+    "value_b": 2.697552,
+    "change": -52.46900000000005,
+    "share": 10.482603139054579,
+    "items": "Petrol"
+  },
+  {
+    "group": "Accommodation",
+    "v2025": 6798.264,
+    "v2026": 7253.451,
+    "value_b": 7.253451,
+    "change": 455.1869999999999,
+    "share": 28.186684898596422,
+    "items": "Accommodation"
+  },
+  {
+    "group": "Groceries",
+    "v2025": 1410.812,
+    "v2026": 1460.47,
+    "value_b": 1.46047,
+    "change": 49.65800000000013,
+    "share": 5.675340978225829,
+    "items": "Groceries for self-catering"
+  },
+  {
+    "group": "Drinks",
+    "v2025": 1253.433,
+    "v2026": 1119.506,
+    "value_b": 1.1195060000000001,
+    "change": -133.9269999999999,
+    "share": 4.35036548314562,
+    "items": "Alcohol, drinks (not already reported)"
+  },
+  {
+    "group": "Meals",
+    "v2025": 3856.894,
+    "v2026": 3840.773,
+    "value_b": 3.840773,
+    "change": -16.12099999999964,
+    "share": 14.92512437432015,
+    "items": "Takeaways and restaurant meals"
+  },
+  {
+    "group": "Shopping",
+    "v2025": 1534.304,
+    "v2026": 1326.254,
+    "value_b": 1.3262539999999998,
+    "change": -208.05000000000018,
+    "share": 5.153781778287755,
+    "items": "Shopping / gifts /souvenirs"
+  }
+]

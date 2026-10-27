@@ -1,0 +1,62 @@
+[
+  {
+    "file": "01-national-trend.json",
+    "status": "pass",
+    "bytes": 19812
+  },
+  {
+    "file": "02-destination-change.json",
+    "status": "pass",
+    "bytes": 17462
+  },
+  {
+    "file": "03-recovery-heatmap.json",
+    "status": "pass",
+    "bytes": 46060
+  },
+  {
+    "file": "04-visits-map.json",
+    "status": "pass",
+    "bytes": 42252
+  },
+  {
+    "file": "05-tourism-intensity-map.json",
+    "status": "pass",
+    "bytes": 43065
+  },
+  {
+    "file": "06-travel-purpose.json",
+    "status": "pass",
+    "bytes": 27458
+  },
+  {
+    "file": "07-within-state-waffle.json",
+    "status": "pass",
+    "bytes": 66774
+  },
+  {
+    "file": "08-length-and-spending.json",
+    "status": "pass",
+    "bytes": 17295
+  },
+  {
+    "file": "09-spending-categories.json",
+    "status": "pass",
+    "bytes": 21109
+  },
+  {
+    "file": "10-spending-waterfall.json",
+    "status": "pass",
+    "bytes": 23309
+  },
+  {
+    "file": "11-spending-dot-density-map.json",
+    "status": "pass",
+    "bytes": 74950
+  },
+  {
+    "file": "12-state-spending-trends.json",
+    "status": "pass",
+    "bytes": 67711
+  }
+]

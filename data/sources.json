@@ -1,0 +1,29 @@
+{
+  "current": {
+    "publisher": "Tourism Research Australia",
+    "title": "Domestic Tourism Statistics June quarter 2026",
+    "url": "https://www.tra.gov.au/en/tourism-statistics/domestic-tourism-statistics-results",
+    "download": "https://www.tra.gov.au/content/dam/austrade-assets/global/wip/tra/documents/dots/tra-dots-june-quarter-2026-compared-to-june-quarter-2025.xlsx",
+    "accessed": "2026-10-14"
+  },
+  "historical": {
+    "publisher": "Tourism Research Australia",
+    "title": "Revised overnight backcast 2019 to 2024",
+    "url": "https://www.tra.gov.au/en/tourism-statistics/domestic-tourism-statistics-results/dots-march-2026",
+    "download": "https://www.tra.gov.au/content/dam/austrade-assets/global/wip/tra/documents/dots/tra-dots-2019-2024-overnight-backcast-data-revised.xlsx",
+    "accessed": "2026-10-14"
+  },
+  "population": {
+    "publisher": "Australian Bureau of Statistics",
+    "title": "National state and territory population March 2026 Table 4",
+    "url": "https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/mar-2026",
+    "download": "https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/mar-2026/310104.xlsx",
+    "accessed": "2026-10-14"
+  },
+  "boundaries": {
+    "publisher": "Australian Bureau of Statistics",
+    "title": "ASGS Edition 3 state and territory boundaries",
+    "url": "https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-3-july-2021-june-2026/access-and-downloads/data-services-and-apis",
+    "accessed": "2026-10-14"
+  }
+}

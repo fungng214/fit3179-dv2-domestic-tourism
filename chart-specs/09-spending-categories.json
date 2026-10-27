@@ -1,0 +1,239 @@
+{
+  "data": {
+    "values": [
+      {
+        "group": "Airfares",
+        "v2025": 3865.324,
+        "v2026": 3845.969,
+        "value_b": 3.845969,
+        "change": -19.355000000000018,
+        "share": 14.945315868649278,
+        "items": "Domestic airfares",
+        "label": "A$3.85bn",
+        "period": "April–June 2026"
+      },
+      {
+        "group": "Other spending",
+        "v2025": 3724.4649999999997,
+        "v2026": 4189.633000000001,
+        "value_b": 4.189633000000001,
+        "change": 465.16800000000103,
+        "share": 16.280783479720373,
+        "items": "Package Tours, Organised Tours, Rental vehicles, Vehicle maintenance/repairs, Taxi, Other local public transport, Long distance public transport, Entertainment, Gambling, Education fees, Convention / Conference / Seminar / Trade fair, Other expenditure nfd, Unallocated expenditure and rounding residual",
+        "label": "A$4.19bn",
+        "period": "April–June 2026"
+      },
+      {
+        "group": "Petrol",
+        "v2025": 2750.021,
+        "v2026": 2697.552,
+        "value_b": 2.697552,
+        "change": -52.46900000000005,
+        "share": 10.482603139054579,
+        "items": "Petrol",
+        "label": "A$2.70bn",
+        "period": "April–June 2026"
+      },
+      {
+        "group": "Accommodation",
+        "v2025": 6798.264,
+        "v2026": 7253.451,
+        "value_b": 7.253451,
+        "change": 455.1869999999999,
+        "share": 28.186684898596422,
+        "items": "Accommodation",
+        "label": "A$7.25bn",
+        "period": "April–June 2026"
+      },
+      {
+        "group": "Groceries",
+        "v2025": 1410.812,
+        "v2026": 1460.47,
+        "value_b": 1.46047,
+        "change": 49.65800000000013,
+        "share": 5.675340978225829,
+        "items": "Groceries for self-catering",
+        "label": "A$1.46bn",
+        "period": "April–June 2026"
+      },
+      {
+        "group": "Drinks",
+        "v2025": 1253.433,
+        "v2026": 1119.506,
+        "value_b": 1.1195060000000001,
+        "change": -133.9269999999999,
+        "share": 4.35036548314562,
+        "items": "Alcohol, drinks (not already reported)",
+        "label": "A$1.12bn",
+        "period": "April–June 2026"
+      },
+      {
+        "group": "Meals",
+        "v2025": 3856.894,
+        "v2026": 3840.773,
+        "value_b": 3.840773,
+        "change": -16.12099999999964,
+        "share": 14.92512437432015,
+        "items": "Takeaways and restaurant meals",
+        "label": "A$3.84bn",
+        "period": "April–June 2026"
+      },
+      {
+        "group": "Shopping",
+        "v2025": 1534.304,
+        "v2026": 1326.254,
+        "value_b": 1.3262539999999998,
+        "change": -208.05000000000018,
+        "share": 5.153781778287755,
+        "items": "Shopping / gifts /souvenirs",
+        "label": "A$1.33bn",
+        "period": "April–June 2026"
+      }
+    ]
+  },
+  "height": 300,
+  "encoding": {
+    "y": {
+      "field": "group",
+      "type": "nominal",
+      "sort": [
+        "Accommodation",
+        "Other spending",
+        "Airfares",
+        "Meals",
+        "Petrol",
+        "Groceries",
+        "Shopping",
+        "Drinks"
+      ],
+      "axis": {
+        "title": null,
+        "labelLimit": 120
+      }
+    },
+    "x": {
+      "field": "value_b",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          0,
+          9.8
+        ]
+      },
+      "axis": {
+        "title": "Overnight spending · AUD billion",
+        "values": [
+          0,
+          2,
+          4,
+          6,
+          8
+        ]
+      }
+    },
+    "tooltip": [
+      {
+        "field": "period",
+        "title": "Period",
+        "type": "nominal"
+      },
+      {
+        "field": "group",
+        "title": "Spending category",
+        "type": "nominal"
+      },
+      {
+        "field": "value_b",
+        "title": "Spending · AUD billion",
+        "type": "quantitative",
+        "format": ".3f"
+      },
+      {
+        "field": "share",
+        "title": "Share of spending · %",
+        "type": "quantitative",
+        "format": ".1f"
+      },
+      {
+        "field": "items",
+        "title": "Includes",
+        "type": "nominal"
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "size": 23,
+        "cornerRadiusEnd": 3
+      },
+      "encoding": {
+        "color": {
+          "condition": {
+            "test": "datum.group === 'Accommodation'",
+            "value": "#17665b"
+          },
+          "value": "#93afa3"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 7,
+        "fontSize": 11,
+        "color": "#243b3a"
+      },
+      "encoding": {
+        "text": {
+          "field": "label"
+        }
+      }
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "How do overnight spending categories compare in June quarter 2026? Sorted bar lengths compare flat spending categories on a common zero baseline. Direct labels give spending and share; no artificial hierarchy is implied.",
+  "width": 960,
+  "config": {
+    "background": "transparent",
+    "font": "Arial",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": "normal",
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "gridColor": "#e3e8e1",
+      "domain": false,
+      "tickColor": "#c5cec7",
+      "labelPadding": 7,
+      "titlePadding": 13
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "orient": "bottom",
+      "titleFontWeight": "normal",
+      "titleLimit": 400,
+      "labelLimit": 210,
+      "padding": 8
+    },
+    "text": {
+      "font": "Arial",
+      "color": "#243b3a"
+    }
+  },
+  "padding": 10,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding",
+    "resize": true
+  }
+}

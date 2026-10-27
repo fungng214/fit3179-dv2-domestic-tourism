@@ -1,0 +1,216 @@
+{
+  "data": {
+    "values": [
+      {
+        "state": "Australian Capital Territory",
+        "label": "ACT",
+        "old": 0.546725,
+        "new": 0.504917,
+        "change": -7.6469888883808235,
+        "period": "April–June 2019 and 2026"
+      },
+      {
+        "state": "New South Wales",
+        "label": "New South Wales",
+        "old": 9.217692,
+        "new": 9.36228,
+        "change": 1.5685922246046147,
+        "period": "April–June 2019 and 2026"
+      },
+      {
+        "state": "Northern Territory",
+        "label": "Northern Territory",
+        "old": 0.26788999999999996,
+        "new": 0.276477,
+        "change": 3.205420135130077,
+        "period": "April–June 2019 and 2026"
+      },
+      {
+        "state": "Queensland",
+        "label": "Queensland",
+        "old": 5.916162,
+        "new": 6.358560000000001,
+        "change": 7.477787119419643,
+        "period": "April–June 2019 and 2026"
+      },
+      {
+        "state": "South Australia",
+        "label": "South Australia",
+        "old": 1.675778,
+        "new": 1.8282370000000001,
+        "change": 9.097804124412656,
+        "period": "April–June 2019 and 2026"
+      },
+      {
+        "state": "Tasmania",
+        "label": "Tasmania",
+        "old": 0.589234,
+        "new": 0.677688,
+        "change": 15.011693147374384,
+        "period": "April–June 2019 and 2026"
+      },
+      {
+        "state": "Victoria",
+        "label": "Victoria",
+        "old": 7.251242,
+        "new": 7.301035,
+        "change": 0.6866823642073916,
+        "period": "April–June 2019 and 2026"
+      },
+      {
+        "state": "Western Australia",
+        "label": "Western Australia",
+        "old": 2.103602,
+        "new": 2.410636,
+        "change": 14.595631683179612,
+        "period": "April–June 2019 and 2026"
+      }
+    ]
+  },
+  "height": 290,
+  "encoding": {
+    "y": {
+      "field": "label",
+      "type": "nominal",
+      "sort": [
+        "New South Wales",
+        "Victoria",
+        "Queensland",
+        "Western Australia",
+        "South Australia",
+        "Tasmania",
+        "ACT",
+        "Northern Territory"
+      ],
+      "axis": {
+        "title": null,
+        "labelLimit": 220,
+        "labelFontSize": 11
+      }
+    },
+    "tooltip": [
+      {
+        "field": "state",
+        "title": "Destination",
+        "type": "nominal"
+      },
+      {
+        "field": "old",
+        "title": "June quarter 2019 visits · million",
+        "type": "quantitative",
+        "format": ".2f"
+      },
+      {
+        "field": "new",
+        "title": "June quarter 2026 visits · million",
+        "type": "quantitative",
+        "format": ".2f"
+      },
+      {
+        "field": "change",
+        "title": "Change since 2019 · %",
+        "type": "quantitative",
+        "format": "+.1f"
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "rule",
+        "strokeWidth": 3,
+        "color": "#bbc7bf"
+      },
+      "encoding": {
+        "x": {
+          "field": "old",
+          "type": "quantitative",
+          "axis": {
+            "title": "Overnight visits · million"
+          },
+          "scale": {
+            "domain": [
+              0,
+              10
+            ]
+          }
+        },
+        "x2": {
+          "field": "new"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": false,
+        "color": "#8d9b94",
+        "size": 100,
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "x": {
+          "field": "old",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "color": "#17665b",
+        "size": 85
+      },
+      "encoding": {
+        "x": {
+          "field": "new",
+          "type": "quantitative"
+        }
+      }
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Which destinations gained overnight visits between June quarters 2019 and 2026? Two points on a common horizontal scale encode the two periods. The connecting rule reveals direction and magnitude of change more directly than separate bars.",
+  "width": 480,
+  "config": {
+    "background": "transparent",
+    "font": "Arial",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": "normal",
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "gridColor": "#e3e8e1",
+      "domain": false,
+      "tickColor": "#c5cec7",
+      "labelPadding": 7,
+      "titlePadding": 13
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "orient": "bottom",
+      "titleFontWeight": "normal",
+      "titleLimit": 400,
+      "labelLimit": 210,
+      "padding": 8
+    },
+    "text": {
+      "font": "Arial",
+      "color": "#243b3a"
+    }
+  },
+  "padding": 10,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding",
+    "resize": true
+  }
+}

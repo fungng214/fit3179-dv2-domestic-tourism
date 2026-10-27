@@ -1,0 +1,1083 @@
+{
+  "data": {
+    "values": [
+      {
+        "column": 0,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 0,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 0,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 1,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 0,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 2,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 0,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 3,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 0,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 4,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 0,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 5,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 0,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 6,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 0,
+        "row": 7,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 7,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 7,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 7,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 7,
+        "type": "Intrastate",
+        "share": 75.1073518594559,
+        "trips_m": 20.339852,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 7,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 7,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 7,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 7,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 7,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 0,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 8,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 0,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 1,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 2,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 3,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 4,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 5,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 6,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 7,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 8,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      },
+      {
+        "column": 9,
+        "row": 9,
+        "type": "Interstate",
+        "share": 24.892648140544086,
+        "trips_m": 6.741188,
+        "period": "April–June 2026"
+      }
+    ]
+  },
+  "width": 285,
+  "height": 285,
+  "layer": [
+    {
+      "mark": {
+        "type": "rect",
+        "cornerRadius": 3,
+        "stroke": "#ffffff",
+        "strokeWidth": 2.2
+      },
+      "encoding": {
+        "x": {
+          "field": "column",
+          "type": "ordinal",
+          "axis": null
+        },
+        "y": {
+          "field": "row",
+          "type": "ordinal",
+          "axis": null
+        },
+        "color": {
+          "field": "type",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Intrastate",
+              "Interstate"
+            ],
+            "range": [
+              "#17665b",
+              "#bc8246"
+            ]
+          },
+          "legend": {
+            "title": null
+          }
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "type": "Intrastate",
+            "share": 75.1073518594559,
+            "trips_m": 20.339852,
+            "headline": "75.1% of trips",
+            "detail": "stay within their home state",
+            "counts": "20.34m of 27.08m overnight trips",
+            "period": "April–June 2026"
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "stroke": "#fffefa",
+        "strokeWidth": 1.4
+      },
+      "encoding": {
+        "x": {
+          "value": 77
+        },
+        "y": {
+          "value": 54
+        },
+        "x2": {
+          "value": 137
+        },
+        "y2": {
+          "value": 108
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "type": "Intrastate",
+            "share": 75.1073518594559,
+            "trips_m": 20.339852,
+            "headline": "75.1% of trips",
+            "detail": "stay within their home state",
+            "counts": "20.34m of 27.08m overnight trips",
+            "period": "April–June 2026"
+          }
+        ]
+      },
+      "mark": {
+        "type": "rect",
+        "fill": "#fffefa",
+        "fillOpacity": 0.94,
+        "x": {
+          "expr": "width * 0.04"
+        },
+        "x2": {
+          "expr": "width * 0.96"
+        },
+        "y": {
+          "expr": "height * 0.37"
+        },
+        "y2": {
+          "expr": "height * 0.71"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "type": "Intrastate",
+            "share": 75.1073518594559,
+            "trips_m": 20.339852,
+            "headline": "75.1% of trips",
+            "detail": "stay within their home state",
+            "counts": "20.34m of 27.08m overnight trips",
+            "period": "April–June 2026"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "fontSize": 23,
+        "fontWeight": "bold",
+        "color": "#243b3a",
+        "x": {
+          "expr": "width * 0.08"
+        },
+        "y": {
+          "expr": "height * 0.45"
+        }
+      },
+      "encoding": {
+        "text": {
+          "field": "headline"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "type": "Intrastate",
+            "share": 75.1073518594559,
+            "trips_m": 20.339852,
+            "headline": "75.1% of trips",
+            "detail": "stay within their home state",
+            "counts": "20.34m of 27.08m overnight trips",
+            "period": "April–June 2026"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "fontSize": 15,
+        "fontWeight": "normal",
+        "color": "#243b3a",
+        "x": {
+          "expr": "width * 0.08"
+        },
+        "y": {
+          "expr": "height * 0.55"
+        }
+      },
+      "encoding": {
+        "text": {
+          "field": "detail"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "type": "Intrastate",
+            "share": 75.1073518594559,
+            "trips_m": 20.339852,
+            "headline": "75.1% of trips",
+            "detail": "stay within their home state",
+            "counts": "20.34m of 27.08m overnight trips",
+            "period": "April–June 2026"
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "fontSize": 12,
+        "fontWeight": "normal",
+        "color": "#243b3a",
+        "x": {
+          "expr": "width * 0.08"
+        },
+        "y": {
+          "expr": "height * 0.64"
+        }
+      },
+      "encoding": {
+        "text": {
+          "field": "counts"
+        }
+      }
+    }
+  ],
+  "encoding": {
+    "tooltip": [
+      {
+        "field": "period",
+        "title": "Period",
+        "type": "nominal"
+      },
+      {
+        "field": "type",
+        "title": "Trip geography",
+        "type": "nominal"
+      },
+      {
+        "field": "share",
+        "title": "Share of overnight trips · %",
+        "type": "quantitative",
+        "format": ".1f"
+      },
+      {
+        "field": "trips_m",
+        "title": "Overnight trips · million",
+        "type": "quantitative",
+        "format": ".2f"
+      }
+    ]
+  },
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "How common is crossing a state border on an overnight trip in June quarter 2026? One hundred equal area squares make a simple proportion tangible. Squares round the current share to whole percentage points; the caption states the precise percentages.",
+  "config": {
+    "background": "transparent",
+    "font": "Arial",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": "normal",
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "gridColor": "#e3e8e1",
+      "domain": false,
+      "tickColor": "#c5cec7",
+      "labelPadding": 7,
+      "titlePadding": 13
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "orient": "bottom",
+      "titleFontWeight": "normal",
+      "titleLimit": 400,
+      "labelLimit": 210,
+      "padding": 8
+    },
+    "text": {
+      "font": "Arial",
+      "color": "#243b3a"
+    }
+  },
+  "padding": 10,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding",
+    "resize": true
+  }
+}

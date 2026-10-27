@@ -1,0 +1,2582 @@
+[
+  {
+    "state": "Australian Capital Territory",
+    "abbr": "ACT",
+    "lon": 149.06890330936508,
+    "lat": -35.270196553487345,
+    "spend_b": 0.499687,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Australian Capital Territory",
+    "abbr": "ACT",
+    "lon": 148.78863279774043,
+    "lat": -35.436307498822096,
+    "spend_b": 0.499687,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Australian Capital Territory",
+    "abbr": "ACT",
+    "lon": 149.09700884317212,
+    "lat": -35.58497943360544,
+    "spend_b": 0.499687,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Australian Capital Territory",
+    "abbr": "ACT",
+    "lon": 149.0146934352523,
+    "lat": -35.40259703586838,
+    "spend_b": 0.499687,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Australian Capital Territory",
+    "abbr": "ACT",
+    "lon": 149.2912822381561,
+    "lat": -35.29411129512067,
+    "spend_b": 0.499687,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 142.68515903083184,
+    "lat": -32.14399539056253,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.39118308067987,
+    "lat": -33.54941230000564,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 144.7462427977081,
+    "lat": -35.801348383757365,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 147.65223861029185,
+    "lat": -32.42731523026631,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 141.66980916420783,
+    "lat": -30.61729413853496,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 151.25786772036423,
+    "lat": -31.52594642570511,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 150.67604001311312,
+    "lat": -31.382803265794212,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.12025314399833,
+    "lat": -31.188354885826264,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.04667299798808,
+    "lat": -34.14430326112254,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 147.32982334603244,
+    "lat": -35.24908063213743,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.9142766421237,
+    "lat": -32.9421999074456,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.02645903641474,
+    "lat": -34.463056443057184,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 150.59377536040535,
+    "lat": -30.276982159186012,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 144.1843454815315,
+    "lat": -29.437180324788915,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 147.81619598387672,
+    "lat": -30.073919700205263,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 152.22432808385815,
+    "lat": -30.3095415749063,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 146.0890694588026,
+    "lat": -32.94785383368341,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 142.540255621396,
+    "lat": -30.29362890047399,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.9697807099939,
+    "lat": -31.51532068716558,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 146.87477401794058,
+    "lat": -31.800282370925608,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.92901528649767,
+    "lat": -29.202244180387932,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 141.82643332086258,
+    "lat": -30.72791128256327,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.74946509400684,
+    "lat": -29.988946162385997,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.7899745521902,
+    "lat": -34.43068101884484,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 150.2914150455528,
+    "lat": -31.805895981907184,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.69304826513854,
+    "lat": -35.47563817752861,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 146.98536662036477,
+    "lat": -31.334964154245714,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 141.32130468581684,
+    "lat": -32.81384374677499,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 141.80654254835534,
+    "lat": -30.046610106192315,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 141.50832252199933,
+    "lat": -29.00407674767501,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.59754538569393,
+    "lat": -34.500574233465436,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 144.9499437181237,
+    "lat": -30.43317212964447,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 141.78260539550362,
+    "lat": -29.380941457911668,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 147.6607052047823,
+    "lat": -35.170808071466915,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 141.5170806336618,
+    "lat": -32.016962985749004,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.3723037148152,
+    "lat": -28.71748531183113,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.73013794475168,
+    "lat": -35.59321729896002,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 143.31772281922073,
+    "lat": -30.843090790712434,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.6934546031682,
+    "lat": -36.14818310345062,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 152.68870547158406,
+    "lat": -29.713141040371926,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.94489971679374,
+    "lat": -29.38991754491665,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 146.35433484055267,
+    "lat": -35.609061435206826,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.32402423270233,
+    "lat": -31.185302597228738,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 150.95673906260885,
+    "lat": -31.290529101362846,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 144.3232722475145,
+    "lat": -33.9589791294683,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.07283863128276,
+    "lat": -33.88951208556126,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.0492017454108,
+    "lat": -32.07163538831186,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 147.88235454516732,
+    "lat": -34.49306119150982,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 146.94274763687636,
+    "lat": -31.640172501763654,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 144.18023855326308,
+    "lat": -31.43206594439138,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 145.36898037418118,
+    "lat": -32.769314646723174,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 146.3790603465745,
+    "lat": -31.87265580246411,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.88791413149463,
+    "lat": -29.579202506665624,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 149.2504620538134,
+    "lat": -35.80288684543925,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 144.62294721180052,
+    "lat": -29.144916781696743,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 148.90298959808928,
+    "lat": -29.964902690347103,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 142.57333236149995,
+    "lat": -29.95992308332609,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 150.1856628818739,
+    "lat": -35.03311703011223,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 145.40109850486482,
+    "lat": -34.40323304349326,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 145.5250337614196,
+    "lat": -33.65495543703244,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 141.09114786356764,
+    "lat": -33.96566261369409,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 147.7472730882677,
+    "lat": -31.98986740214454,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 145.98192632698297,
+    "lat": -33.393919783516765,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 147.2004674530224,
+    "lat": -32.068568675393514,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 150.82028898394321,
+    "lat": -33.788577093851,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 150.77623882369573,
+    "lat": -33.49575541372879,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 143.20796890190456,
+    "lat": -31.67931438512907,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 146.33490465171735,
+    "lat": -34.919987458263115,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 151.07631239196206,
+    "lat": -32.43123360396287,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 147.55314156606767,
+    "lat": -32.46546680911823,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 150.11966114596734,
+    "lat": -31.428095104587282,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 152.72016476294593,
+    "lat": -30.89372323968598,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 145.8359441523955,
+    "lat": -33.86556775627037,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 147.61838300025425,
+    "lat": -34.67078333796951,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "New South Wales",
+    "abbr": "NSW",
+    "lon": 146.4421759562244,
+    "lat": -33.07411061791605,
+    "spend_b": 7.519719,
+    "dot_value_m": 100,
+    "dot_count": 75,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Northern Territory",
+    "abbr": "NT",
+    "lon": 131.52486970218223,
+    "lat": -19.253097088325216,
+    "spend_b": 0.452726,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Northern Territory",
+    "abbr": "NT",
+    "lon": 134.97096823160052,
+    "lat": -18.552201618169136,
+    "spend_b": 0.452726,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Northern Territory",
+    "abbr": "NT",
+    "lon": 133.69405135279294,
+    "lat": -17.49710156575655,
+    "spend_b": 0.452726,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Northern Territory",
+    "abbr": "NT",
+    "lon": 133.98048201636232,
+    "lat": -20.888086242416236,
+    "spend_b": 0.452726,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Northern Territory",
+    "abbr": "NT",
+    "lon": 133.61688892132773,
+    "lat": -17.573780426943216,
+    "spend_b": 0.452726,
+    "dot_value_m": 100,
+    "dot_count": 5,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 151.32382965158664,
+    "lat": -25.24779679475977,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 145.8096839032932,
+    "lat": -18.785867246522212,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 139.79307015858777,
+    "lat": -24.86532092079744,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 138.8664079204255,
+    "lat": -23.875145062516562,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 140.88384004520952,
+    "lat": -18.884033942048024,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 139.7206038467367,
+    "lat": -17.986023074927722,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 138.49610688638606,
+    "lat": -18.736611389236806,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 145.36201704825217,
+    "lat": -19.384559986894196,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 150.8453192502109,
+    "lat": -25.31262386342005,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 139.83123048115505,
+    "lat": -21.3884947964999,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 143.81733552264714,
+    "lat": -15.89639935360282,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 141.16898873793446,
+    "lat": -26.896769617658897,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 141.60004560087043,
+    "lat": -26.219691014155153,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 145.86731621065266,
+    "lat": -27.598606811448843,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 148.68728052045466,
+    "lat": -21.28430727461876,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 147.27835592109986,
+    "lat": -20.619811655049112,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 150.5831590037195,
+    "lat": -24.179455375693482,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 142.97696415961332,
+    "lat": -28.74757150580364,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 152.1313215646774,
+    "lat": -28.341284716549275,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 139.65712859787283,
+    "lat": -20.61019024834408,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 141.14717094214126,
+    "lat": -25.88803540045185,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 142.3447999800565,
+    "lat": -22.572168222821627,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 149.65490613511255,
+    "lat": -28.062098337172802,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 142.91964471352009,
+    "lat": -14.510541272620578,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 142.9909712198025,
+    "lat": -14.525283492650882,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 150.89908870878634,
+    "lat": -25.082748508038748,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 143.5438580587338,
+    "lat": -21.565512679848165,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 140.32709612338994,
+    "lat": -24.1616216638246,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 142.88466042269405,
+    "lat": -20.56479379089048,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 141.99551335807487,
+    "lat": -18.848810802502573,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 150.66211534049424,
+    "lat": -24.833081872508174,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 147.67083004710597,
+    "lat": -28.093684975036485,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 138.51950440136875,
+    "lat": -18.26774245218818,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 139.3497608478498,
+    "lat": -16.67034630399551,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 142.23170583215142,
+    "lat": -11.031514209115354,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 140.03608502800174,
+    "lat": -21.85345874175412,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 147.310148622461,
+    "lat": -21.462815179296292,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 140.879974496073,
+    "lat": -18.65739156597905,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 152.84657484565514,
+    "lat": -26.53170689881955,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 144.92800215828936,
+    "lat": -17.266997440403294,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 138.62758949788272,
+    "lat": -22.173566289857927,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 144.71528872298992,
+    "lat": -28.86034145347505,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 148.29713324781653,
+    "lat": -25.38726898118849,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 143.021523813097,
+    "lat": -13.191285642435789,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 151.0338433146867,
+    "lat": -26.02445680340878,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 141.625360884532,
+    "lat": -21.459226808742674,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 150.16297568527727,
+    "lat": -24.985260299842086,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 149.56534521499427,
+    "lat": -23.397747187183196,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 138.43363459819267,
+    "lat": -18.150438203326555,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 144.85549241686488,
+    "lat": -16.932996481055103,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 140.2325896115901,
+    "lat": -18.90548022980322,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 143.36567931212252,
+    "lat": -26.0610612226923,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 151.3939848916295,
+    "lat": -28.86361208720733,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 150.66976269507342,
+    "lat": -28.402416750352362,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 142.74637436902887,
+    "lat": -27.333462682462542,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 140.23226361476256,
+    "lat": -21.308757935173933,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 146.875246408611,
+    "lat": -26.22819771533236,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 144.80576788767166,
+    "lat": -27.766930886839287,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 145.3675593295843,
+    "lat": -23.63316930564248,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 144.79940893937885,
+    "lat": -25.519857158205397,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 141.63430693375565,
+    "lat": -20.608449452331207,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 150.4210624284023,
+    "lat": -23.406916030396214,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 138.63222154460757,
+    "lat": -21.23216289724464,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Queensland",
+    "abbr": "QLD",
+    "lon": 142.18538056650024,
+    "lat": -19.438174093154792,
+    "spend_b": 6.363364,
+    "dot_value_m": 100,
+    "dot_count": 64,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 136.06692901528524,
+    "lat": -26.405611724651244,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 140.43636622498258,
+    "lat": -35.36148795579492,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 135.4717642323494,
+    "lat": -34.677504059662446,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 137.70953876093148,
+    "lat": -34.33970010122418,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 135.64960016010522,
+    "lat": -29.867918945691464,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 133.02987396613975,
+    "lat": -28.118600489861592,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 135.88482509250275,
+    "lat": -27.044422342290293,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 137.62087921643027,
+    "lat": -27.52716317506967,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 132.9226529385683,
+    "lat": -30.886388088897814,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 137.4125470771434,
+    "lat": -31.89793639292135,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 133.18622902505837,
+    "lat": -26.053420800607622,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 136.08825130829493,
+    "lat": -29.309595180961335,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 140.35633509460848,
+    "lat": -33.191341235701906,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 137.75471268665066,
+    "lat": -34.8193376219492,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 132.80427799011284,
+    "lat": -31.507599021769163,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 136.9441944879659,
+    "lat": -28.217090215614576,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 136.11361712507252,
+    "lat": -26.617238939260854,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "South Australia",
+    "abbr": "SA",
+    "lon": 132.24060265020262,
+    "lat": -27.30155614952486,
+    "spend_b": 1.799386,
+    "dot_value_m": 100,
+    "dot_count": 18,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Tasmania",
+    "abbr": "TAS",
+    "lon": 147.6380479261059,
+    "lat": -42.753790168214096,
+    "spend_b": 0.710005,
+    "dot_value_m": 100,
+    "dot_count": 7,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Tasmania",
+    "abbr": "TAS",
+    "lon": 146.14077786358948,
+    "lat": -43.02139164006691,
+    "spend_b": 0.710005,
+    "dot_value_m": 100,
+    "dot_count": 7,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Tasmania",
+    "abbr": "TAS",
+    "lon": 144.87561483795315,
+    "lat": -40.888210851312905,
+    "spend_b": 0.710005,
+    "dot_value_m": 100,
+    "dot_count": 7,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Tasmania",
+    "abbr": "TAS",
+    "lon": 147.28782774552496,
+    "lat": -42.51949724152326,
+    "spend_b": 0.710005,
+    "dot_value_m": 100,
+    "dot_count": 7,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Tasmania",
+    "abbr": "TAS",
+    "lon": 145.70897209125678,
+    "lat": -41.416540833023994,
+    "spend_b": 0.710005,
+    "dot_value_m": 100,
+    "dot_count": 7,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Tasmania",
+    "abbr": "TAS",
+    "lon": 146.96141567585084,
+    "lat": -41.98480597670729,
+    "spend_b": 0.710005,
+    "dot_value_m": 100,
+    "dot_count": 7,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Tasmania",
+    "abbr": "TAS",
+    "lon": 144.81498193492,
+    "lat": -40.96457320210277,
+    "spend_b": 0.710005,
+    "dot_value_m": 100,
+    "dot_count": 7,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 145.88631840582858,
+    "lat": -37.10782856890506,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 144.39911042025906,
+    "lat": -37.47553886094575,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.7596717453726,
+    "lat": -36.60653642570198,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 141.1274360146054,
+    "lat": -35.58587038557569,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 143.29919166367242,
+    "lat": -38.184353526090646,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.8404263141515,
+    "lat": -38.52442376722618,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 141.4153537209797,
+    "lat": -34.442283931220175,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 142.49747633097303,
+    "lat": -35.257857643891306,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 141.0791439707461,
+    "lat": -36.062063551937534,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 144.2633618257708,
+    "lat": -36.365814446359735,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 142.33700037401422,
+    "lat": -37.53312957304229,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 141.87253385662095,
+    "lat": -37.99149009895068,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 143.92863484043846,
+    "lat": -35.646463854689664,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 143.37004105794526,
+    "lat": -35.34578444844873,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 141.62680277484708,
+    "lat": -37.73989733120084,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 143.1420499211343,
+    "lat": -35.90162140019335,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 149.4952551255787,
+    "lat": -37.47474055177747,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 142.56085352423767,
+    "lat": -36.37555876378465,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 147.38089927706628,
+    "lat": -38.03689906533902,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.99447934446306,
+    "lat": -37.9840852701816,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 145.1670661284047,
+    "lat": -38.17113032106316,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 142.16020141413176,
+    "lat": -36.4343252852639,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 145.54496002220955,
+    "lat": -38.21656029545917,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.33088849183898,
+    "lat": -37.17361494739167,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 142.3658827911353,
+    "lat": -37.81250283697518,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 143.48341420874596,
+    "lat": -38.32888523688043,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 143.9068788710459,
+    "lat": -38.0073652131754,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 143.27826776600912,
+    "lat": -35.02399314484097,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 142.7992670641945,
+    "lat": -37.67951863604963,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.14928011329286,
+    "lat": -37.391073993123804,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 144.36663295030422,
+    "lat": -36.52616409579807,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 149.14757326751146,
+    "lat": -37.633054161337604,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.44940868697657,
+    "lat": -39.084767942378996,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.54151852787834,
+    "lat": -37.12995882051076,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 145.82578617108243,
+    "lat": -38.22225107120252,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.42600519365163,
+    "lat": -37.72382271806704,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 141.4061355688531,
+    "lat": -37.66026304994549,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 143.08858965189347,
+    "lat": -38.239373425481475,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 147.75597455817933,
+    "lat": -36.86710368218062,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 142.325778984413,
+    "lat": -36.61321853402087,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 142.00808652083404,
+    "lat": -38.33330116268541,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 144.84278653947695,
+    "lat": -37.42044631446696,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.72438211419373,
+    "lat": -36.7477659073684,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.83592449049718,
+    "lat": -37.25531287926632,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.41984348441557,
+    "lat": -38.332389124513966,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 147.40204263278918,
+    "lat": -36.8856041917884,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.02308949053287,
+    "lat": -37.629920814696185,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 142.9877389283796,
+    "lat": -35.0135168832183,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 145.47157252096878,
+    "lat": -36.152008986635785,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 144.55927692856574,
+    "lat": -37.17293893425368,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 144.02405568614714,
+    "lat": -35.59258188484965,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 141.95408683151436,
+    "lat": -36.846740037957225,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 141.6640477572247,
+    "lat": -36.51803523101605,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.69234213216927,
+    "lat": -36.49130471830325,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 144.6204913429614,
+    "lat": -38.15437721434395,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Victoria",
+    "abbr": "VIC",
+    "lon": 146.17801801812664,
+    "lat": -38.72169689363414,
+    "spend_b": 5.597621,
+    "dot_value_m": 100,
+    "dot_count": 56,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 123.85428949335126,
+    "lat": -22.316357608909115,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 126.16670729371289,
+    "lat": -29.841492132917796,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 123.49926188513855,
+    "lat": -32.64646446036473,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 116.03727413500508,
+    "lat": -31.647365201396887,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 114.78968648353302,
+    "lat": -22.08729577234631,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 115.19333758384433,
+    "lat": -27.256705971833473,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 115.31235900129323,
+    "lat": -24.89151445425989,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 127.64330473886227,
+    "lat": -22.65970077418551,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 121.17454277393131,
+    "lat": -23.697097108723813,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 122.81800689676005,
+    "lat": -25.770126527371783,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 114.35703433744266,
+    "lat": -24.903430491440616,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 126.6494183487614,
+    "lat": -15.263533945943575,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 116.27125395558454,
+    "lat": -33.77437163957943,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 128.90380544141024,
+    "lat": -24.42074573134214,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 114.12429898685829,
+    "lat": -23.288724892421463,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 125.12735348490949,
+    "lat": -26.86683588747992,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 125.32530844887873,
+    "lat": -22.027085063075212,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 120.64783492723495,
+    "lat": -29.674953380059303,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 117.82300457927636,
+    "lat": -23.635724196315092,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 124.79466197561494,
+    "lat": -20.52508537994099,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 124.67871111149078,
+    "lat": -16.60688231327985,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 122.27656761971451,
+    "lat": -33.946001561467,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 113.64882137045133,
+    "lat": -23.882574468882975,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 119.8674201527351,
+    "lat": -24.833944635679437,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 118.38300000449293,
+    "lat": -30.499032630817425,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 128.7760357962069,
+    "lat": -21.036811850744584,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 123.70627075982898,
+    "lat": -19.29625938893384,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  },
+  {
+    "state": "Western Australia",
+    "abbr": "WA",
+    "lon": 127.80683469413657,
+    "lat": -28.74074113218254,
+    "spend_b": 2.789042,
+    "dot_value_m": 100,
+    "dot_count": 28,
+    "placement": "Allocated within state; not an observed tourist or spending location"
+  }
+]

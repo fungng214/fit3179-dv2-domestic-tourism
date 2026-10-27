@@ -1,0 +1,12 @@
+[
+  {
+    "type": "Interstate",
+    "trips": 6741.188,
+    "share": 24.892648140544086
+  },
+  {
+    "type": "Intrastate",
+    "trips": 20339.852,
+    "share": 75.1073518594559
+  }
+]

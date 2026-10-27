@@ -1,0 +1,42 @@
+[
+  {
+    "width": 1440,
+    "id": "03-recovery-heatmap",
+    "canvases": 1,
+    "overflow": 0,
+    "canvasWidth": 532,
+    "frameWidth": 532,
+    "tooltip": "Period\t\nApril–June 2023\n\nDestination\t\nWestern Australia\n\nOvernight visits · million\t\n2.39\n\nChange from June 2019 · %\t\n+13.6\n\nStatistical series\t\nRevised backcast",
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "id": "05-tourism-intensity-map",
+    "canvases": 1,
+    "overflow": 0,
+    "canvasWidth": 532,
+    "frameWidth": 532,
+    "tooltip": "Period\t\nApril–June 2026\n\nDestination\t\nNorthern Territory\n\nVisitor nights per resident\t\n4.31\n\nVisitor nights · million\t\n1.16\n\nResidents · 31 March 2026\t\n268,899",
+    "errors": []
+  },
+  {
+    "width": 390,
+    "id": "03-recovery-heatmap",
+    "canvases": 1,
+    "overflow": 0,
+    "canvasWidth": 350,
+    "frameWidth": 350,
+    "tooltip": "Period\t\nApril–June 2022\n\nDestination\t\nWestern Australia\n\nOvernight visits · million\t\n2.33\n\nChange from June 2019 · %\t\n+10.8\n\nStatistical series\t\nRevised backcast",
+    "errors": []
+  },
+  {
+    "width": 390,
+    "id": "05-tourism-intensity-map",
+    "canvases": 1,
+    "overflow": 0,
+    "canvasWidth": 350,
+    "frameWidth": 350,
+    "tooltip": "Period\t\nApril–June 2026\n\nDestination\t\nSouth Australia\n\nVisitor nights per resident\t\n3.08\n\nVisitor nights · million\t\n5.91\n\nResidents · 31 March 2026\t\n1,916,836",
+    "errors": []
+  }
+]

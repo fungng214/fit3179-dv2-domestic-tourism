@@ -1,0 +1,372 @@
+{
+  "data": {
+    "values": [
+      {
+        "state": "Australian Capital Territory",
+        "year": 2026,
+        "period": "April–June 2026",
+        "method": "DoTS",
+        "trips": 504.917,
+        "nights": 1461.428,
+        "spend": 499.687,
+        "trips_index": 92.35301111161918,
+        "nights_index": 100.59921953462568,
+        "spend_index": 114.97577093524652,
+        "trips_m": 0.504917,
+        "nights_m": 1.4614280000000002,
+        "spend_b": 0.499687,
+        "trip_change_2019": -7.6469888883808235,
+        "abbr": "ACT",
+        "lon": 149.12,
+        "lat": -35.31,
+        "population": 489668,
+        "nights_per_resident": 2.9845282926390944,
+        "average_nights": 2.8943925437250084,
+        "spend_per_visit": 989.6418619297825,
+        "cx": 398,
+        "cy": 278,
+        "spend_rank": 7
+      },
+      {
+        "state": "New South Wales",
+        "year": 2026,
+        "period": "April–June 2026",
+        "method": "DoTS",
+        "trips": 9362.28,
+        "nights": 27718.278,
+        "spend": 7519.719,
+        "trips_index": 101.56859222460461,
+        "nights_index": 105.18247504047329,
+        "spend_index": 156.13282333575293,
+        "trips_m": 9.36228,
+        "nights_m": 27.718277999999998,
+        "spend_b": 7.519719,
+        "trip_change_2019": 1.5685922246046147,
+        "abbr": "NSW",
+        "lon": 147,
+        "lat": -32,
+        "population": 8670105,
+        "nights_per_resident": 3.1969945000666082,
+        "average_nights": 2.9606333072713054,
+        "spend_per_visit": 803.1931324420974,
+        "cx": 312,
+        "cy": 205,
+        "spend_rank": 1
+      },
+      {
+        "state": "Northern Territory",
+        "year": 2026,
+        "period": "April–June 2026",
+        "method": "DoTS",
+        "trips": 276.477,
+        "nights": 1159.907,
+        "spend": 452.726,
+        "trips_index": 103.20542013513008,
+        "nights_index": 107.54278413505489,
+        "spend_index": 196.94528306811557,
+        "trips_m": 0.276477,
+        "nights_m": 1.159907,
+        "spend_b": 0.452726,
+        "trip_change_2019": 3.205420135130077,
+        "abbr": "NT",
+        "lon": 133,
+        "lat": -19,
+        "population": 268899,
+        "nights_per_resident": 4.313541515587637,
+        "average_nights": 4.19531100236186,
+        "spend_per_visit": 1637.481598831006,
+        "cx": 180,
+        "cy": 70,
+        "spend_rank": 8
+      },
+      {
+        "state": "Queensland",
+        "year": 2026,
+        "period": "April–June 2026",
+        "method": "DoTS",
+        "trips": 6358.56,
+        "nights": 21612.992,
+        "spend": 6363.364,
+        "trips_index": 107.47778711941965,
+        "nights_index": 116.7304319421849,
+        "spend_index": 174.65695033417046,
+        "trips_m": 6.358560000000001,
+        "nights_m": 21.612992,
+        "spend_b": 6.363364,
+        "trip_change_2019": 7.477787119419643,
+        "abbr": "QLD",
+        "lon": 144,
+        "lat": -23,
+        "population": 5739461,
+        "nights_per_resident": 3.7656832235640247,
+        "average_nights": 3.3990387760750855,
+        "spend_per_visit": 1000.7555169723962,
+        "cx": 300,
+        "cy": 82,
+        "spend_rank": 2
+      },
+      {
+        "state": "South Australia",
+        "year": 2026,
+        "period": "April–June 2026",
+        "method": "DoTS",
+        "trips": 1828.237,
+        "nights": 5909.64,
+        "spend": 1799.386,
+        "trips_index": 109.09780412441266,
+        "nights_index": 111.48316350765886,
+        "spend_index": 179.75381308015358,
+        "trips_m": 1.8282370000000001,
+        "nights_m": 5.9096400000000004,
+        "spend_b": 1.799386,
+        "trip_change_2019": 9.097804124412656,
+        "abbr": "SA",
+        "lon": 135,
+        "lat": -30,
+        "population": 1916836,
+        "nights_per_resident": 3.0830180568395003,
+        "average_nights": 3.2324255553300802,
+        "spend_per_visit": 984.2192232188714,
+        "cx": 185,
+        "cy": 205,
+        "spend_rank": 5
+      },
+      {
+        "state": "Tasmania",
+        "year": 2026,
+        "period": "April–June 2026",
+        "method": "DoTS",
+        "trips": 677.688,
+        "nights": 2448.583,
+        "spend": 710.005,
+        "trips_index": 115.01169314737439,
+        "nights_index": 121.57158404613855,
+        "spend_index": 157.86659255141745,
+        "trips_m": 0.677688,
+        "nights_m": 2.448583,
+        "spend_b": 0.710005,
+        "trip_change_2019": 15.011693147374384,
+        "abbr": "TAS",
+        "lon": 146.7,
+        "lat": -42,
+        "population": 580691,
+        "nights_per_resident": 4.216671172792415,
+        "average_nights": 3.6131420358631114,
+        "spend_per_visit": 1047.6871362632953,
+        "cx": 310,
+        "cy": 395,
+        "spend_rank": 6
+      },
+      {
+        "state": "Victoria",
+        "year": 2026,
+        "period": "April–June 2026",
+        "method": "DoTS",
+        "trips": 7301.035,
+        "nights": 20134.449,
+        "spend": 5597.621,
+        "trips_index": 100.68668236420739,
+        "nights_index": 106.09353442986166,
+        "spend_index": 157.14843587696336,
+        "trips_m": 7.301035,
+        "nights_m": 20.134449,
+        "spend_b": 5.597621,
+        "trip_change_2019": 0.6866823642073916,
+        "abbr": "VIC",
+        "lon": 144.5,
+        "lat": -37,
+        "population": 7154221,
+        "nights_per_resident": 2.814345405320859,
+        "average_nights": 2.757752702185375,
+        "spend_per_visit": 766.68869550687,
+        "cx": 265,
+        "cy": 311,
+        "spend_rank": 3
+      },
+      {
+        "state": "Western Australia",
+        "year": 2026,
+        "period": "April–June 2026",
+        "method": "DoTS",
+        "trips": 2410.636,
+        "nights": 8543.673,
+        "spend": 2789.042,
+        "trips_index": 114.5956316831796,
+        "nights_index": 126.93742238825618,
+        "spend_index": 206.30015962317688,
+        "trips_m": 2.410636,
+        "nights_m": 8.543673,
+        "spend_b": 2.789042,
+        "trip_change_2019": 14.595631683179612,
+        "abbr": "WA",
+        "lon": 122,
+        "lat": -26,
+        "population": 3096222,
+        "nights_per_resident": 2.759386439344466,
+        "average_nights": 3.544157226557639,
+        "spend_per_visit": 1156.9735123842836,
+        "cx": 65,
+        "cy": 145,
+        "spend_rank": 4
+      }
+    ]
+  },
+  "height": 300,
+  "layer": [
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "color": "#17665b",
+        "size": 110,
+        "opacity": 0.85
+      },
+      "encoding": {
+        "x": {
+          "field": "average_nights",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              4.8
+            ]
+          },
+          "axis": {
+            "title": "Average nights per destination visit"
+          }
+        },
+        "y": {
+          "field": "spend_per_visit",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              1900
+            ]
+          },
+          "axis": {
+            "title": "Allocated spending per visit · AUD",
+            "format": ",.0f"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "period",
+            "title": "Period",
+            "type": "nominal"
+          },
+          {
+            "field": "state",
+            "title": "Destination",
+            "type": "nominal"
+          },
+          {
+            "field": "average_nights",
+            "title": "Average nights per visit",
+            "type": "quantitative",
+            "format": ".2f"
+          },
+          {
+            "field": "spend_per_visit",
+            "title": "Allocated spending per visit · AUD",
+            "type": "quantitative",
+            "format": ",.0f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": {
+          "expr": "datum.abbr === 'QLD' || datum.abbr === 'NSW' ? 15 : -13"
+        },
+        "dx": {
+          "expr": "datum.abbr === 'TAS' ? 9 : 0"
+        },
+        "fontSize": 11,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "x": {
+          "field": "average_nights",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "spend_per_visit",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "abbr"
+        },
+        "tooltip": [
+          {
+            "field": "period",
+            "title": "Period",
+            "type": "nominal"
+          },
+          {
+            "field": "state",
+            "title": "Destination",
+            "type": "nominal"
+          },
+          {
+            "field": "average_nights",
+            "title": "Average nights per visit",
+            "type": "quantitative",
+            "format": ".2f"
+          },
+          {
+            "field": "spend_per_visit",
+            "title": "Allocated spending per visit · AUD",
+            "type": "quantitative",
+            "format": ",.0f"
+          }
+        ]
+      }
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "How do average stay length and allocated spending per destination visit differ? Position on two quantitative axes reveals the relationship without requiring statistical knowledge. Each point is one state or territory. The ratios use matching state-level totals, not mismatched purpose definitions.",
+  "width": 480,
+  "config": {
+    "background": "transparent",
+    "font": "Arial",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": "normal",
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "gridColor": "#e3e8e1",
+      "domain": false,
+      "tickColor": "#c5cec7",
+      "labelPadding": 7,
+      "titlePadding": 13
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "orient": "bottom",
+      "titleFontWeight": "normal",
+      "titleLimit": 400,
+      "labelLimit": 210,
+      "padding": 8
+    },
+    "text": {
+      "font": "Arial",
+      "color": "#243b3a"
+    }
+  },
+  "padding": 10,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding",
+    "resize": true
+  }
+}

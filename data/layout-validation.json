@@ -1,0 +1,257 @@
+[
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "viewport": 1440,
+    "maximum": 12,
+    "longLines": [],
+    "headings": true,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "charts": [
+      {
+        "id": "01-national-trend",
+        "state": "ready",
+        "width": 752,
+        "height": 392
+      },
+      {
+        "id": "02-destination-change",
+        "state": "ready",
+        "width": 532,
+        "height": 395
+      },
+      {
+        "id": "03-recovery-heatmap",
+        "state": "ready",
+        "width": 532,
+        "height": 451
+      },
+      {
+        "id": "04-visits-map",
+        "state": "ready",
+        "width": 532,
+        "height": 498
+      },
+      {
+        "id": "05-tourism-intensity-map",
+        "state": "ready",
+        "width": 532,
+        "height": 480
+      },
+      {
+        "id": "06-travel-purpose",
+        "state": "ready",
+        "width": 752,
+        "height": 463
+      },
+      {
+        "id": "07-within-state-waffle",
+        "state": "ready",
+        "width": 320,
+        "height": 393
+      },
+      {
+        "id": "08-length-and-spending",
+        "state": "ready",
+        "width": 532,
+        "height": 411
+      },
+      {
+        "id": "09-spending-categories",
+        "state": "ready",
+        "width": 752,
+        "height": 405
+      },
+      {
+        "id": "10-spending-waterfall",
+        "state": "ready",
+        "width": 752,
+        "height": 469
+      },
+      {
+        "id": "11-spending-dot-density-map",
+        "state": "ready",
+        "width": 752,
+        "height": 444
+      },
+      {
+        "id": "12-state-spending-trends",
+        "state": "ready",
+        "width": 752,
+        "height": 350
+      }
+    ],
+    "menus": 12,
+    "errors": []
+  },
+  {
+    "width": 960,
+    "scrollWidth": 960,
+    "viewport": 960,
+    "maximum": 12,
+    "longLines": [],
+    "headings": true,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "charts": [
+      {
+        "id": "01-national-trend",
+        "state": "ready",
+        "width": 896,
+        "height": 392
+      },
+      {
+        "id": "02-destination-change",
+        "state": "ready",
+        "width": 432,
+        "height": 395
+      },
+      {
+        "id": "03-recovery-heatmap",
+        "state": "ready",
+        "width": 432,
+        "height": 451
+      },
+      {
+        "id": "04-visits-map",
+        "state": "ready",
+        "width": 432,
+        "height": 443
+      },
+      {
+        "id": "05-tourism-intensity-map",
+        "state": "ready",
+        "width": 432,
+        "height": 425
+      },
+      {
+        "id": "06-travel-purpose",
+        "state": "ready",
+        "width": 896,
+        "height": 463
+      },
+      {
+        "id": "07-within-state-waffle",
+        "state": "ready",
+        "width": 320,
+        "height": 393
+      },
+      {
+        "id": "08-length-and-spending",
+        "state": "ready",
+        "width": 432,
+        "height": 411
+      },
+      {
+        "id": "09-spending-categories",
+        "state": "ready",
+        "width": 896,
+        "height": 405
+      },
+      {
+        "id": "10-spending-waterfall",
+        "state": "ready",
+        "width": 896,
+        "height": 469
+      },
+      {
+        "id": "11-spending-dot-density-map",
+        "state": "ready",
+        "width": 896,
+        "height": 444
+      },
+      {
+        "id": "12-state-spending-trends",
+        "state": "ready",
+        "width": 896,
+        "height": 379
+      }
+    ],
+    "menus": 12,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "viewport": 390,
+    "maximum": 11,
+    "longLines": [],
+    "headings": true,
+    "bodyFont": "Arial, Helvetica, sans-serif",
+    "charts": [
+      {
+        "id": "01-national-trend",
+        "state": "ready",
+        "width": 350,
+        "height": 392
+      },
+      {
+        "id": "02-destination-change",
+        "state": "ready",
+        "width": 350,
+        "height": 395
+      },
+      {
+        "id": "03-recovery-heatmap",
+        "state": "ready",
+        "width": 350,
+        "height": 451
+      },
+      {
+        "id": "04-visits-map",
+        "state": "ready",
+        "width": 350,
+        "height": 389
+      },
+      {
+        "id": "05-tourism-intensity-map",
+        "state": "ready",
+        "width": 350,
+        "height": 371
+      },
+      {
+        "id": "06-travel-purpose",
+        "state": "ready",
+        "width": 350,
+        "height": 463
+      },
+      {
+        "id": "07-within-state-waffle",
+        "state": "ready",
+        "width": 320,
+        "height": 393
+      },
+      {
+        "id": "08-length-and-spending",
+        "state": "ready",
+        "width": 350,
+        "height": 411
+      },
+      {
+        "id": "09-spending-categories",
+        "state": "ready",
+        "width": 350,
+        "height": 405
+      },
+      {
+        "id": "10-spending-waterfall",
+        "state": "ready",
+        "width": 350,
+        "height": 469
+      },
+      {
+        "id": "11-spending-dot-density-map",
+        "state": "ready",
+        "width": 350,
+        "height": 314
+      },
+      {
+        "id": "12-state-spending-trends",
+        "state": "ready",
+        "width": 350,
+        "height": 620
+      }
+    ],
+    "menus": 12,
+    "errors": []
+  }
+]

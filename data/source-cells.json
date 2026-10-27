@@ -1,0 +1,2243 @@
+[
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "C4",
+    "state": "Australia",
+    "year": 2019,
+    "metric": "trips",
+    "source_value": 25985.833,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "C5",
+    "state": "New South Wales",
+    "year": 2019,
+    "metric": "trips",
+    "source_value": 9217.692,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "C6",
+    "state": "Victoria",
+    "year": 2019,
+    "metric": "trips",
+    "source_value": 7251.242,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "C7",
+    "state": "Queensland",
+    "year": 2019,
+    "metric": "trips",
+    "source_value": 5916.162,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "C8",
+    "state": "South Australia",
+    "year": 2019,
+    "metric": "trips",
+    "source_value": 1675.778,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "C9",
+    "state": "Western Australia",
+    "year": 2019,
+    "metric": "trips",
+    "source_value": 2103.602,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "C10",
+    "state": "Tasmania",
+    "year": 2019,
+    "metric": "trips",
+    "source_value": 589.234,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "C11",
+    "state": "Northern Territory",
+    "year": 2019,
+    "metric": "trips",
+    "source_value": 267.89,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "C12",
+    "state": "Australian Capital Territory",
+    "year": 2019,
+    "metric": "trips",
+    "source_value": 546.725,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "G4",
+    "state": "Australia",
+    "year": 2020,
+    "metric": "trips",
+    "source_value": 13656.186,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "G5",
+    "state": "New South Wales",
+    "year": 2020,
+    "metric": "trips",
+    "source_value": 4683.132,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "G6",
+    "state": "Victoria",
+    "year": 2020,
+    "metric": "trips",
+    "source_value": 3498.884,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "G7",
+    "state": "Queensland",
+    "year": 2020,
+    "metric": "trips",
+    "source_value": 2942.03,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "G8",
+    "state": "South Australia",
+    "year": 2020,
+    "metric": "trips",
+    "source_value": 986.1,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "G9",
+    "state": "Western Australia",
+    "year": 2020,
+    "metric": "trips",
+    "source_value": 1244.58,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "G10",
+    "state": "Tasmania",
+    "year": 2020,
+    "metric": "trips",
+    "source_value": 192.282,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "G11",
+    "state": "Northern Territory",
+    "year": 2020,
+    "metric": "trips",
+    "source_value": 60.763,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "G12",
+    "state": "Australian Capital Territory",
+    "year": 2020,
+    "metric": "trips",
+    "source_value": 198.378,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "K4",
+    "state": "Australia",
+    "year": 2021,
+    "metric": "trips",
+    "source_value": 25847.7,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "K5",
+    "state": "New South Wales",
+    "year": 2021,
+    "metric": "trips",
+    "source_value": 9055.874,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "K6",
+    "state": "Victoria",
+    "year": 2021,
+    "metric": "trips",
+    "source_value": 6157.062,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "K7",
+    "state": "Queensland",
+    "year": 2021,
+    "metric": "trips",
+    "source_value": 6241.413,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "K8",
+    "state": "South Australia",
+    "year": 2021,
+    "metric": "trips",
+    "source_value": 1861.152,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "K9",
+    "state": "Western Australia",
+    "year": 2021,
+    "metric": "trips",
+    "source_value": 2335.749,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "K10",
+    "state": "Tasmania",
+    "year": 2021,
+    "metric": "trips",
+    "source_value": 668.652,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "K11",
+    "state": "Northern Territory",
+    "year": 2021,
+    "metric": "trips",
+    "source_value": 284.171,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "K12",
+    "state": "Australian Capital Territory",
+    "year": 2021,
+    "metric": "trips",
+    "source_value": 583.528,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "O4",
+    "state": "Australia",
+    "year": 2022,
+    "metric": "trips",
+    "source_value": 27194.08,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "O5",
+    "state": "New South Wales",
+    "year": 2022,
+    "metric": "trips",
+    "source_value": 9332.674,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "O6",
+    "state": "Victoria",
+    "year": 2022,
+    "metric": "trips",
+    "source_value": 7495.055,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "O7",
+    "state": "Queensland",
+    "year": 2022,
+    "metric": "trips",
+    "source_value": 6385.567,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "O8",
+    "state": "South Australia",
+    "year": 2022,
+    "metric": "trips",
+    "source_value": 1864.891,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "O9",
+    "state": "Western Australia",
+    "year": 2022,
+    "metric": "trips",
+    "source_value": 2330.67,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "O10",
+    "state": "Tasmania",
+    "year": 2022,
+    "metric": "trips",
+    "source_value": 702.549,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "O11",
+    "state": "Northern Territory",
+    "year": 2022,
+    "metric": "trips",
+    "source_value": 327.34,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "O12",
+    "state": "Australian Capital Territory",
+    "year": 2022,
+    "metric": "trips",
+    "source_value": 561.159,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "S4",
+    "state": "Australia",
+    "year": 2023,
+    "metric": "trips",
+    "source_value": 27451.935,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "S5",
+    "state": "New South Wales",
+    "year": 2023,
+    "metric": "trips",
+    "source_value": 9513.063,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "S6",
+    "state": "Victoria",
+    "year": 2023,
+    "metric": "trips",
+    "source_value": 7402.18,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "S7",
+    "state": "Queensland",
+    "year": 2023,
+    "metric": "trips",
+    "source_value": 6491.432,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "S8",
+    "state": "South Australia",
+    "year": 2023,
+    "metric": "trips",
+    "source_value": 1887.108,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "S9",
+    "state": "Western Australia",
+    "year": 2023,
+    "metric": "trips",
+    "source_value": 2388.65,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "S10",
+    "state": "Tasmania",
+    "year": 2023,
+    "metric": "trips",
+    "source_value": 666.498,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "S11",
+    "state": "Northern Territory",
+    "year": 2023,
+    "metric": "trips",
+    "source_value": 278.325,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "S12",
+    "state": "Australian Capital Territory",
+    "year": 2023,
+    "metric": "trips",
+    "source_value": 536.63,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "W4",
+    "state": "Australia",
+    "year": 2024,
+    "metric": "trips",
+    "source_value": 26930.537,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "W5",
+    "state": "New South Wales",
+    "year": 2024,
+    "metric": "trips",
+    "source_value": 9251.143,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "W6",
+    "state": "Victoria",
+    "year": 2024,
+    "metric": "trips",
+    "source_value": 7288.387,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "W7",
+    "state": "Queensland",
+    "year": 2024,
+    "metric": "trips",
+    "source_value": 6344.358,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "W8",
+    "state": "South Australia",
+    "year": 2024,
+    "metric": "trips",
+    "source_value": 1915.031,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "W9",
+    "state": "Western Australia",
+    "year": 2024,
+    "metric": "trips",
+    "source_value": 2357.73,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "W10",
+    "state": "Tasmania",
+    "year": 2024,
+    "metric": "trips",
+    "source_value": 676.466,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "W11",
+    "state": "Northern Territory",
+    "year": 2024,
+    "metric": "trips",
+    "source_value": 264.527,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 1",
+    "cell": "W12",
+    "state": "Australian Capital Territory",
+    "year": 2024,
+    "metric": "trips",
+    "source_value": 524.928,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "C4",
+    "state": "Australia",
+    "year": 2019,
+    "metric": "nights",
+    "source_value": 80422.811,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "C5",
+    "state": "New South Wales",
+    "year": 2019,
+    "metric": "nights",
+    "source_value": 26352.563,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "C6",
+    "state": "Victoria",
+    "year": 2019,
+    "metric": "nights",
+    "source_value": 18978.017,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "C7",
+    "state": "Queensland",
+    "year": 2019,
+    "metric": "nights",
+    "source_value": 18515.302,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "C8",
+    "state": "South Australia",
+    "year": 2019,
+    "metric": "nights",
+    "source_value": 5300.926,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "C9",
+    "state": "Western Australia",
+    "year": 2019,
+    "metric": "nights",
+    "source_value": 6730.618,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "C10",
+    "state": "Tasmania",
+    "year": 2019,
+    "metric": "nights",
+    "source_value": 2014.108,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "C11",
+    "state": "Northern Territory",
+    "year": 2019,
+    "metric": "nights",
+    "source_value": 1078.554,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "C12",
+    "state": "Australian Capital Territory",
+    "year": 2019,
+    "metric": "nights",
+    "source_value": 1452.723,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "G4",
+    "state": "Australia",
+    "year": 2020,
+    "metric": "nights",
+    "source_value": 42588.957,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "G5",
+    "state": "New South Wales",
+    "year": 2020,
+    "metric": "nights",
+    "source_value": 14489.279,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "G6",
+    "state": "Victoria",
+    "year": 2020,
+    "metric": "nights",
+    "source_value": 10145.482,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "G7",
+    "state": "Queensland",
+    "year": 2020,
+    "metric": "nights",
+    "source_value": 9081.011,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "G8",
+    "state": "South Australia",
+    "year": 2020,
+    "metric": "nights",
+    "source_value": 3147.918,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "G9",
+    "state": "Western Australia",
+    "year": 2020,
+    "metric": "nights",
+    "source_value": 4173.916,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "G10",
+    "state": "Tasmania",
+    "year": 2020,
+    "metric": "nights",
+    "source_value": 641.568,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "G11",
+    "state": "Northern Territory",
+    "year": 2020,
+    "metric": "nights",
+    "source_value": 251.188,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "G12",
+    "state": "Australian Capital Territory",
+    "year": 2020,
+    "metric": "nights",
+    "source_value": 658.595,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "K4",
+    "state": "Australia",
+    "year": 2021,
+    "metric": "nights",
+    "source_value": 87438.144,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "K5",
+    "state": "New South Wales",
+    "year": 2021,
+    "metric": "nights",
+    "source_value": 27855.162,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "K6",
+    "state": "Victoria",
+    "year": 2021,
+    "metric": "nights",
+    "source_value": 17735.162,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "K7",
+    "state": "Queensland",
+    "year": 2021,
+    "metric": "nights",
+    "source_value": 21504.271,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "K8",
+    "state": "South Australia",
+    "year": 2021,
+    "metric": "nights",
+    "source_value": 6231.267,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "K9",
+    "state": "Western Australia",
+    "year": 2021,
+    "metric": "nights",
+    "source_value": 8523.789,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "K10",
+    "state": "Tasmania",
+    "year": 2021,
+    "metric": "nights",
+    "source_value": 2517.24,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "K11",
+    "state": "Northern Territory",
+    "year": 2021,
+    "metric": "nights",
+    "source_value": 1384.074,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "K12",
+    "state": "Australian Capital Territory",
+    "year": 2021,
+    "metric": "nights",
+    "source_value": 1687.179,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "O4",
+    "state": "Australia",
+    "year": 2022,
+    "metric": "nights",
+    "source_value": 93881.365,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "O5",
+    "state": "New South Wales",
+    "year": 2022,
+    "metric": "nights",
+    "source_value": 28724.673,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "O6",
+    "state": "Victoria",
+    "year": 2022,
+    "metric": "nights",
+    "source_value": 21548.299,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "O7",
+    "state": "Queensland",
+    "year": 2022,
+    "metric": "nights",
+    "source_value": 22779.806,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "O8",
+    "state": "South Australia",
+    "year": 2022,
+    "metric": "nights",
+    "source_value": 6433.298,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "O9",
+    "state": "Western Australia",
+    "year": 2022,
+    "metric": "nights",
+    "source_value": 8685.794,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "O10",
+    "state": "Tasmania",
+    "year": 2022,
+    "metric": "nights",
+    "source_value": 2639.431,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "O11",
+    "state": "Northern Territory",
+    "year": 2022,
+    "metric": "nights",
+    "source_value": 1444.068,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "O12",
+    "state": "Australian Capital Territory",
+    "year": 2022,
+    "metric": "nights",
+    "source_value": 1625.996,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "S4",
+    "state": "Australia",
+    "year": 2023,
+    "metric": "nights",
+    "source_value": 88704.187,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "S5",
+    "state": "New South Wales",
+    "year": 2023,
+    "metric": "nights",
+    "source_value": 27893.238,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "S6",
+    "state": "Victoria",
+    "year": 2023,
+    "metric": "nights",
+    "source_value": 20105.389,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "S7",
+    "state": "Queensland",
+    "year": 2023,
+    "metric": "nights",
+    "source_value": 21293.222,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "S8",
+    "state": "South Australia",
+    "year": 2023,
+    "metric": "nights",
+    "source_value": 6163.026,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "S9",
+    "state": "Western Australia",
+    "year": 2023,
+    "metric": "nights",
+    "source_value": 8309.654,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "S10",
+    "state": "Tasmania",
+    "year": 2023,
+    "metric": "nights",
+    "source_value": 2273.453,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "S11",
+    "state": "Northern Territory",
+    "year": 2023,
+    "metric": "nights",
+    "source_value": 1158.195,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "S12",
+    "state": "Australian Capital Territory",
+    "year": 2023,
+    "metric": "nights",
+    "source_value": 1508.01,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "W4",
+    "state": "Australia",
+    "year": 2024,
+    "metric": "nights",
+    "source_value": 88119.498,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "W5",
+    "state": "New South Wales",
+    "year": 2024,
+    "metric": "nights",
+    "source_value": 26738.908,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "W6",
+    "state": "Victoria",
+    "year": 2024,
+    "metric": "nights",
+    "source_value": 20283.909,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "W7",
+    "state": "Queensland",
+    "year": 2024,
+    "metric": "nights",
+    "source_value": 21612.969,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "W8",
+    "state": "South Australia",
+    "year": 2024,
+    "metric": "nights",
+    "source_value": 6187.167,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "W9",
+    "state": "Western Australia",
+    "year": 2024,
+    "metric": "nights",
+    "source_value": 8284.439,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "W10",
+    "state": "Tasmania",
+    "year": 2024,
+    "metric": "nights",
+    "source_value": 2374.987,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "W11",
+    "state": "Northern Territory",
+    "year": 2024,
+    "metric": "nights",
+    "source_value": 1157.019,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 2",
+    "cell": "W12",
+    "state": "Australian Capital Territory",
+    "year": 2024,
+    "metric": "nights",
+    "source_value": 1480.1,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "C4",
+    "state": "Australia",
+    "year": 2019,
+    "metric": "spend",
+    "source_value": 15488.764,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "C5",
+    "state": "New South Wales",
+    "year": 2019,
+    "metric": "spend",
+    "source_value": 4816.232,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "C6",
+    "state": "Victoria",
+    "year": 2019,
+    "metric": "spend",
+    "source_value": 3561.996,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "C7",
+    "state": "Queensland",
+    "year": 2019,
+    "metric": "spend",
+    "source_value": 3643.35,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "C8",
+    "state": "South Australia",
+    "year": 2019,
+    "metric": "spend",
+    "source_value": 1001.028,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "C9",
+    "state": "Western Australia",
+    "year": 2019,
+    "metric": "spend",
+    "source_value": 1351.934,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "C10",
+    "state": "Tasmania",
+    "year": 2019,
+    "metric": "spend",
+    "source_value": 449.75,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "C11",
+    "state": "Northern Territory",
+    "year": 2019,
+    "metric": "spend",
+    "source_value": 229.874,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "C12",
+    "state": "Australian Capital Territory",
+    "year": 2019,
+    "metric": "spend",
+    "source_value": 434.602,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "G4",
+    "state": "Australia",
+    "year": 2020,
+    "metric": "spend",
+    "source_value": 4107.316,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "G5",
+    "state": "New South Wales",
+    "year": 2020,
+    "metric": "spend",
+    "source_value": 1351.036,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "G6",
+    "state": "Victoria",
+    "year": 2020,
+    "metric": "spend",
+    "source_value": 770.654,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "G7",
+    "state": "Queensland",
+    "year": 2020,
+    "metric": "spend",
+    "source_value": 1024.796,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "G8",
+    "state": "South Australia",
+    "year": 2020,
+    "metric": "spend",
+    "source_value": 340.482,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "G9",
+    "state": "Western Australia",
+    "year": 2020,
+    "metric": "spend",
+    "source_value": 436.858,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "G10",
+    "state": "Tasmania",
+    "year": 2020,
+    "metric": "spend",
+    "source_value": 58.197,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "G11",
+    "state": "Northern Territory",
+    "year": 2020,
+    "metric": "spend",
+    "source_value": 39.206,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "G12",
+    "state": "Australian Capital Territory",
+    "year": 2020,
+    "metric": "spend",
+    "source_value": 86.087,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "K4",
+    "state": "Australia",
+    "year": 2021,
+    "metric": "spend",
+    "source_value": 18856.929,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "K5",
+    "state": "New South Wales",
+    "year": 2021,
+    "metric": "spend",
+    "source_value": 5664.326,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "K6",
+    "state": "Victoria",
+    "year": 2021,
+    "metric": "spend",
+    "source_value": 3363.503,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "K7",
+    "state": "Queensland",
+    "year": 2021,
+    "metric": "spend",
+    "source_value": 5157.951,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "K8",
+    "state": "South Australia",
+    "year": 2021,
+    "metric": "spend",
+    "source_value": 1526.073,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "K9",
+    "state": "Western Australia",
+    "year": 2021,
+    "metric": "spend",
+    "source_value": 1734.062,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "K10",
+    "state": "Tasmania",
+    "year": 2021,
+    "metric": "spend",
+    "source_value": 674.876,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "K11",
+    "state": "Northern Territory",
+    "year": 2021,
+    "metric": "spend",
+    "source_value": 258.295,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "K12",
+    "state": "Australian Capital Territory",
+    "year": 2021,
+    "metric": "spend",
+    "source_value": 477.841,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "O4",
+    "state": "Australia",
+    "year": 2022,
+    "metric": "spend",
+    "source_value": 23958.733,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "O5",
+    "state": "New South Wales",
+    "year": 2022,
+    "metric": "spend",
+    "source_value": 6744.769,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "O6",
+    "state": "Victoria",
+    "year": 2022,
+    "metric": "spend",
+    "source_value": 5236.156,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "O7",
+    "state": "Queensland",
+    "year": 2022,
+    "metric": "spend",
+    "source_value": 6462.569,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "O8",
+    "state": "South Australia",
+    "year": 2022,
+    "metric": "spend",
+    "source_value": 1568.002,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "O9",
+    "state": "Western Australia",
+    "year": 2022,
+    "metric": "spend",
+    "source_value": 2213.485,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "O10",
+    "state": "Tasmania",
+    "year": 2022,
+    "metric": "spend",
+    "source_value": 810.943,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "O11",
+    "state": "Northern Territory",
+    "year": 2022,
+    "metric": "spend",
+    "source_value": 316.554,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "O12",
+    "state": "Australian Capital Territory",
+    "year": 2022,
+    "metric": "spend",
+    "source_value": 606.256,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "S4",
+    "state": "Australia",
+    "year": 2023,
+    "metric": "spend",
+    "source_value": 23749.735,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "S5",
+    "state": "New South Wales",
+    "year": 2023,
+    "metric": "spend",
+    "source_value": 6777.262,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "S6",
+    "state": "Victoria",
+    "year": 2023,
+    "metric": "spend",
+    "source_value": 5005.968,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "S7",
+    "state": "Queensland",
+    "year": 2023,
+    "metric": "spend",
+    "source_value": 6309.963,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "S8",
+    "state": "South Australia",
+    "year": 2023,
+    "metric": "spend",
+    "source_value": 1799.28,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "S9",
+    "state": "Western Australia",
+    "year": 2023,
+    "metric": "spend",
+    "source_value": 2311.965,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "S10",
+    "state": "Tasmania",
+    "year": 2023,
+    "metric": "spend",
+    "source_value": 636.355,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "S11",
+    "state": "Northern Territory",
+    "year": 2023,
+    "metric": "spend",
+    "source_value": 357.164,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "S12",
+    "state": "Australian Capital Territory",
+    "year": 2023,
+    "metric": "spend",
+    "source_value": 551.777,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "W4",
+    "state": "Australia",
+    "year": 2024,
+    "metric": "spend",
+    "source_value": 24289.276,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "W5",
+    "state": "New South Wales",
+    "year": 2024,
+    "metric": "spend",
+    "source_value": 6020.65,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "W6",
+    "state": "Victoria",
+    "year": 2024,
+    "metric": "spend",
+    "source_value": 5872.082,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "W7",
+    "state": "Queensland",
+    "year": 2024,
+    "metric": "spend",
+    "source_value": 6451.906,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "W8",
+    "state": "South Australia",
+    "year": 2024,
+    "metric": "spend",
+    "source_value": 1660.636,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "W9",
+    "state": "Western Australia",
+    "year": 2024,
+    "metric": "spend",
+    "source_value": 2607.672,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "W10",
+    "state": "Tasmania",
+    "year": 2024,
+    "metric": "spend",
+    "source_value": 591.508,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "W11",
+    "state": "Northern Territory",
+    "year": 2024,
+    "metric": "spend",
+    "source_value": 298.852,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "historical",
+    "sheet": "Table 3",
+    "cell": "W12",
+    "state": "Australian Capital Territory",
+    "year": 2024,
+    "metric": "spend",
+    "source_value": 785.97,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B6",
+    "state": "New South Wales",
+    "year": 2025,
+    "metric": "trips",
+    "source_value": 9483.469,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C6",
+    "state": "New South Wales",
+    "year": 2026,
+    "metric": "trips",
+    "source_value": 9362.28,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B7",
+    "state": "Victoria",
+    "year": 2025,
+    "metric": "trips",
+    "source_value": 7497.05,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C7",
+    "state": "Victoria",
+    "year": 2026,
+    "metric": "trips",
+    "source_value": 7301.035,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B8",
+    "state": "Queensland",
+    "year": 2025,
+    "metric": "trips",
+    "source_value": 6474.587,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C8",
+    "state": "Queensland",
+    "year": 2026,
+    "metric": "trips",
+    "source_value": 6358.56,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B9",
+    "state": "South Australia",
+    "year": 2025,
+    "metric": "trips",
+    "source_value": 1911.341,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C9",
+    "state": "South Australia",
+    "year": 2026,
+    "metric": "trips",
+    "source_value": 1828.237,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B10",
+    "state": "Western Australia",
+    "year": 2025,
+    "metric": "trips",
+    "source_value": 2464.542,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C10",
+    "state": "Western Australia",
+    "year": 2026,
+    "metric": "trips",
+    "source_value": 2410.636,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B11",
+    "state": "Tasmania",
+    "year": 2025,
+    "metric": "trips",
+    "source_value": 698.91,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C11",
+    "state": "Tasmania",
+    "year": 2026,
+    "metric": "trips",
+    "source_value": 677.688,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B12",
+    "state": "Northern Territory",
+    "year": 2025,
+    "metric": "trips",
+    "source_value": 275.587,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C12",
+    "state": "Northern Territory",
+    "year": 2026,
+    "metric": "trips",
+    "source_value": 276.477,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B13",
+    "state": "Australian Capital Territory",
+    "year": 2025,
+    "metric": "trips",
+    "source_value": 531.266,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C13",
+    "state": "Australian Capital Territory",
+    "year": 2026,
+    "metric": "trips",
+    "source_value": 504.917,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B14",
+    "state": "Australia",
+    "year": 2025,
+    "metric": "trips",
+    "source_value": 27641.983,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C14",
+    "state": "Australia",
+    "year": 2026,
+    "metric": "trips",
+    "source_value": 27081.04,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B16",
+    "state": "New South Wales",
+    "year": 2025,
+    "metric": "nights",
+    "source_value": 27613.92,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C16",
+    "state": "New South Wales",
+    "year": 2026,
+    "metric": "nights",
+    "source_value": 27718.278,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B17",
+    "state": "Victoria",
+    "year": 2025,
+    "metric": "nights",
+    "source_value": 20486.979,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C17",
+    "state": "Victoria",
+    "year": 2026,
+    "metric": "nights",
+    "source_value": 20134.449,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B18",
+    "state": "Queensland",
+    "year": 2025,
+    "metric": "nights",
+    "source_value": 21782.211,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C18",
+    "state": "Queensland",
+    "year": 2026,
+    "metric": "nights",
+    "source_value": 21612.992,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B19",
+    "state": "South Australia",
+    "year": 2025,
+    "metric": "nights",
+    "source_value": 6216.249,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C19",
+    "state": "South Australia",
+    "year": 2026,
+    "metric": "nights",
+    "source_value": 5909.64,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B20",
+    "state": "Western Australia",
+    "year": 2025,
+    "metric": "nights",
+    "source_value": 8586.518,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C20",
+    "state": "Western Australia",
+    "year": 2026,
+    "metric": "nights",
+    "source_value": 8543.673,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B21",
+    "state": "Tasmania",
+    "year": 2025,
+    "metric": "nights",
+    "source_value": 2502.018,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C21",
+    "state": "Tasmania",
+    "year": 2026,
+    "metric": "nights",
+    "source_value": 2448.583,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B22",
+    "state": "Northern Territory",
+    "year": 2025,
+    "metric": "nights",
+    "source_value": 1097.506,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C22",
+    "state": "Northern Territory",
+    "year": 2026,
+    "metric": "nights",
+    "source_value": 1159.907,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B23",
+    "state": "Australian Capital Territory",
+    "year": 2025,
+    "metric": "nights",
+    "source_value": 1493.256,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C23",
+    "state": "Australian Capital Territory",
+    "year": 2026,
+    "metric": "nights",
+    "source_value": 1461.428,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B24",
+    "state": "Australia",
+    "year": 2025,
+    "metric": "nights",
+    "source_value": 90498.16,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C24",
+    "state": "Australia",
+    "year": 2026,
+    "metric": "nights",
+    "source_value": 89041.71,
+    "unit": "thousand"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B26",
+    "state": "New South Wales",
+    "year": 2025,
+    "metric": "spend",
+    "source_value": 7132.534,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C26",
+    "state": "New South Wales",
+    "year": 2026,
+    "metric": "spend",
+    "source_value": 7519.719,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B27",
+    "state": "Victoria",
+    "year": 2025,
+    "metric": "spend",
+    "source_value": 5393.804,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C27",
+    "state": "Victoria",
+    "year": 2026,
+    "metric": "spend",
+    "source_value": 5597.621,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B28",
+    "state": "Queensland",
+    "year": 2025,
+    "metric": "spend",
+    "source_value": 6556.309,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C28",
+    "state": "Queensland",
+    "year": 2026,
+    "metric": "spend",
+    "source_value": 6363.364,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B29",
+    "state": "South Australia",
+    "year": 2025,
+    "metric": "spend",
+    "source_value": 1531.741,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C29",
+    "state": "South Australia",
+    "year": 2026,
+    "metric": "spend",
+    "source_value": 1799.386,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B30",
+    "state": "Western Australia",
+    "year": 2025,
+    "metric": "spend",
+    "source_value": 2706.545,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C30",
+    "state": "Western Australia",
+    "year": 2026,
+    "metric": "spend",
+    "source_value": 2789.042,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B31",
+    "state": "Tasmania",
+    "year": 2025,
+    "metric": "spend",
+    "source_value": 712.786,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C31",
+    "state": "Tasmania",
+    "year": 2026,
+    "metric": "spend",
+    "source_value": 710.005,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B32",
+    "state": "Northern Territory",
+    "year": 2025,
+    "metric": "spend",
+    "source_value": 462.463,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C32",
+    "state": "Northern Territory",
+    "year": 2026,
+    "metric": "spend",
+    "source_value": 452.726,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B33",
+    "state": "Australian Capital Territory",
+    "year": 2025,
+    "metric": "spend",
+    "source_value": 500.417,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C33",
+    "state": "Australian Capital Territory",
+    "year": 2026,
+    "metric": "spend",
+    "source_value": 499.687,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "B34",
+    "state": "Australia",
+    "year": 2025,
+    "metric": "spend",
+    "source_value": 25193.517,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "current",
+    "sheet": "Table 1a",
+    "cell": "C34",
+    "state": "Australia",
+    "year": 2026,
+    "metric": "spend",
+    "source_value": 25733.608,
+    "unit": "AUD million"
+  },
+  {
+    "dataset": "population",
+    "sheet": "Data1",
+    "cell": "T190",
+    "state": "New South Wales",
+    "period": "31 March 2026",
+    "source_value": 8670105,
+    "unit": "persons, all ages"
+  },
+  {
+    "dataset": "population",
+    "sheet": "Data1",
+    "cell": "U190",
+    "state": "Victoria",
+    "period": "31 March 2026",
+    "source_value": 7154221,
+    "unit": "persons, all ages"
+  },
+  {
+    "dataset": "population",
+    "sheet": "Data1",
+    "cell": "V190",
+    "state": "Queensland",
+    "period": "31 March 2026",
+    "source_value": 5739461,
+    "unit": "persons, all ages"
+  },
+  {
+    "dataset": "population",
+    "sheet": "Data1",
+    "cell": "W190",
+    "state": "South Australia",
+    "period": "31 March 2026",
+    "source_value": 1916836,
+    "unit": "persons, all ages"
+  },
+  {
+    "dataset": "population",
+    "sheet": "Data1",
+    "cell": "X190",
+    "state": "Western Australia",
+    "period": "31 March 2026",
+    "source_value": 3096222,
+    "unit": "persons, all ages"
+  },
+  {
+    "dataset": "population",
+    "sheet": "Data1",
+    "cell": "Y190",
+    "state": "Tasmania",
+    "period": "31 March 2026",
+    "source_value": 580691,
+    "unit": "persons, all ages"
+  },
+  {
+    "dataset": "population",
+    "sheet": "Data1",
+    "cell": "Z190",
+    "state": "Northern Territory",
+    "period": "31 March 2026",
+    "source_value": 268899,
+    "unit": "persons, all ages"
+  },
+  {
+    "dataset": "population",
+    "sheet": "Data1",
+    "cell": "AA190",
+    "state": "Australian Capital Territory",
+    "period": "31 March 2026",
+    "source_value": 489668,
+    "unit": "persons, all ages"
+  },
+  {
+    "dataset": "population",
+    "sheet": "Data1",
+    "cell": "AB190",
+    "state": "Australia",
+    "period": "31 March 2026",
+    "source_value": 27921150,
+    "unit": "persons, all ages"
+  }
+]

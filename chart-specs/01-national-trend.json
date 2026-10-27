@@ -1,0 +1,505 @@
+{
+  "data": {
+    "values": [
+      {
+        "year": 2019,
+        "metric": "Trips",
+        "index": 100.0,
+        "raw": 25.985833,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2019"
+      },
+      {
+        "year": 2019,
+        "metric": "Nights",
+        "index": 100.0,
+        "raw": 80.422811,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2019"
+      },
+      {
+        "year": 2019,
+        "metric": "Spending",
+        "index": 100.0,
+        "raw": 15.488764,
+        "units": "AUD billion",
+        "method": "Revised backcast",
+        "period": "April–June 2019"
+      },
+      {
+        "year": 2020,
+        "metric": "Trips",
+        "index": 52.55242731683837,
+        "raw": 13.656186,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2020"
+      },
+      {
+        "year": 2020,
+        "metric": "Nights",
+        "index": 52.95631484455324,
+        "raw": 42.588957,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2020"
+      },
+      {
+        "year": 2020,
+        "metric": "Spending",
+        "index": 26.518035913001192,
+        "raw": 4.107316,
+        "units": "AUD billion",
+        "method": "Revised backcast",
+        "period": "April–June 2020"
+      },
+      {
+        "year": 2021,
+        "metric": "Trips",
+        "index": 99.46842958622878,
+        "raw": 25.8477,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2021"
+      },
+      {
+        "year": 2021,
+        "metric": "Nights",
+        "index": 108.7230636591402,
+        "raw": 87.438144,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2021"
+      },
+      {
+        "year": 2021,
+        "metric": "Spending",
+        "index": 121.7458604185589,
+        "raw": 18.856929,
+        "units": "AUD billion",
+        "method": "Revised backcast",
+        "period": "April–June 2021"
+      },
+      {
+        "year": 2022,
+        "metric": "Trips",
+        "index": 104.64963736201953,
+        "raw": 27.194080000000003,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2022"
+      },
+      {
+        "year": 2022,
+        "metric": "Nights",
+        "index": 116.73474706075619,
+        "raw": 93.881365,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2022"
+      },
+      {
+        "year": 2022,
+        "metric": "Spending",
+        "index": 154.68460233495713,
+        "raw": 23.958733,
+        "units": "AUD billion",
+        "method": "Revised backcast",
+        "period": "April–June 2022"
+      },
+      {
+        "year": 2023,
+        "metric": "Trips",
+        "index": 105.64192804594721,
+        "raw": 27.451935000000002,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2023"
+      },
+      {
+        "year": 2023,
+        "metric": "Nights",
+        "index": 110.2972973675342,
+        "raw": 88.704187,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2023"
+      },
+      {
+        "year": 2023,
+        "metric": "Spending",
+        "index": 153.33524999154227,
+        "raw": 23.749735,
+        "units": "AUD billion",
+        "method": "Revised backcast",
+        "period": "April–June 2023"
+      },
+      {
+        "year": 2024,
+        "metric": "Trips",
+        "index": 103.63545782811734,
+        "raw": 26.930537,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2024"
+      },
+      {
+        "year": 2024,
+        "metric": "Nights",
+        "index": 109.57027851215,
+        "raw": 88.11949800000001,
+        "units": "million",
+        "method": "Revised backcast",
+        "period": "April–June 2024"
+      },
+      {
+        "year": 2024,
+        "metric": "Spending",
+        "index": 156.8186848221072,
+        "raw": 24.289276,
+        "units": "AUD billion",
+        "method": "Revised backcast",
+        "period": "April–June 2024"
+      },
+      {
+        "year": 2025,
+        "metric": "Trips",
+        "index": 106.37328039474431,
+        "raw": 27.641983,
+        "units": "million",
+        "method": "DoTS",
+        "period": "April–June 2025"
+      },
+      {
+        "year": 2025,
+        "metric": "Nights",
+        "index": 112.52797418384195,
+        "raw": 90.49816,
+        "units": "million",
+        "method": "DoTS",
+        "period": "April–June 2025"
+      },
+      {
+        "year": 2025,
+        "metric": "Spending",
+        "index": 162.6567297429285,
+        "raw": 25.193517,
+        "units": "AUD billion",
+        "method": "DoTS",
+        "period": "April–June 2025"
+      },
+      {
+        "year": 2026,
+        "metric": "Trips",
+        "index": 104.21463110303219,
+        "raw": 27.08104,
+        "units": "million",
+        "method": "DoTS",
+        "period": "April–June 2026"
+      },
+      {
+        "year": 2026,
+        "metric": "Nights",
+        "index": 110.71698302114808,
+        "raw": 89.04171000000001,
+        "units": "million",
+        "method": "DoTS",
+        "period": "April–June 2026"
+      },
+      {
+        "year": 2026,
+        "metric": "Spending",
+        "index": 166.14371553469343,
+        "raw": 25.733608,
+        "units": "AUD billion",
+        "method": "DoTS",
+        "period": "April–June 2026"
+      }
+    ]
+  },
+  "height": 310,
+  "layer": [
+    {
+      "data": {
+        "values": [
+          {
+            "level": 100,
+            "period": "April–June 2026"
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "color": "#8f9e96",
+        "strokeDash": [
+          5,
+          5
+        ]
+      },
+      "encoding": {
+        "y": {
+          "field": "level",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "year": 2024.5,
+            "period": "April–June 2026"
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "color": "#aab6b0",
+        "strokeDash": [
+          2,
+          4
+        ]
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 3,
+        "point": {
+          "filled": true,
+          "size": 55
+        }
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              2019,
+              2026.7
+            ],
+            "zero": false
+          },
+          "axis": {
+            "title": null,
+            "format": "d",
+            "tickMinStep": 1,
+            "grid": false,
+            "values": [
+              2019,
+              2020,
+              2021,
+              2022,
+              2023,
+              2024,
+              2025,
+              2026
+            ]
+          }
+        },
+        "y": {
+          "field": "index",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              185
+            ]
+          },
+          "axis": {
+            "title": "Index · June quarter 2019 = 100",
+            "values": [
+              0,
+              50,
+              100,
+              150
+            ]
+          }
+        },
+        "color": {
+          "field": "metric",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Trips",
+              "Nights",
+              "Spending"
+            ],
+            "range": [
+              "#17665b",
+              "#bc8246",
+              "#486b99"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "period",
+            "title": "Period",
+            "type": "nominal"
+          },
+          {
+            "field": "metric",
+            "title": "Measure",
+            "type": "nominal"
+          },
+          {
+            "field": "index",
+            "title": "Index · 2019 = 100",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "raw",
+            "title": "Published value",
+            "type": "quantitative",
+            "format": ".2f"
+          },
+          {
+            "field": "units",
+            "title": "Unit",
+            "type": "nominal"
+          },
+          {
+            "field": "method",
+            "title": "Statistical series",
+            "type": "nominal"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.year === 2026"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 10,
+        "dy": {
+          "expr": "datum.metric === 'Trips' ? 7 : datum.metric === 'Nights' ? -6 : 0"
+        },
+        "fontSize": 12,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "index",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "metric"
+        },
+        "color": {
+          "field": "metric",
+          "scale": {
+            "domain": [
+              "Trips",
+              "Nights",
+              "Spending"
+            ],
+            "range": [
+              "#17665b",
+              "#bc8246",
+              "#486b99"
+            ]
+          },
+          "legend": null
+        },
+        "tooltip": [
+          {
+            "field": "period",
+            "title": "Period",
+            "type": "nominal"
+          },
+          {
+            "field": "metric",
+            "title": "Measure",
+            "type": "nominal"
+          },
+          {
+            "field": "index",
+            "title": "Index · 2019 = 100",
+            "type": "quantitative",
+            "format": ".1f"
+          },
+          {
+            "field": "raw",
+            "title": "Published value",
+            "type": "quantitative",
+            "format": ".2f"
+          },
+          {
+            "field": "units",
+            "title": "Unit",
+            "type": "nominal"
+          },
+          {
+            "field": "method",
+            "title": "Statistical series",
+            "type": "nominal"
+          }
+        ]
+      }
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "How do trips, nights and nominal spending compare with the same quarter in 2019? Line marks show ordered years. A shared index baseline enables comparison without mixing raw units. The dotted division marks the transition from revised backcast estimates to DoTS.",
+  "width": 960,
+  "config": {
+    "background": "transparent",
+    "font": "Arial",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": "normal",
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "gridColor": "#e3e8e1",
+      "domain": false,
+      "tickColor": "#c5cec7",
+      "labelPadding": 7,
+      "titlePadding": 13
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "orient": "bottom",
+      "titleFontWeight": "normal",
+      "titleLimit": 400,
+      "labelLimit": 210,
+      "padding": 8
+    },
+    "text": {
+      "font": "Arial",
+      "color": "#243b3a"
+    }
+  },
+  "padding": 10,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding",
+    "resize": true
+  }
+}

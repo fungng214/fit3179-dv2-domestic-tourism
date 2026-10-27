@@ -1,0 +1,112 @@
+{
+  "national": {
+    "2019": {
+      "trips_m": 25.985833,
+      "nights_m": 80.422811,
+      "spend_b": 15.488764,
+      "trips_index": 100.0,
+      "spend_index": 100.0
+    },
+    "2020": {
+      "trips_m": 13.656186,
+      "nights_m": 42.588957,
+      "spend_b": 4.107316,
+      "trips_index": 52.55242731683837,
+      "spend_index": 26.518035913001192
+    },
+    "2021": {
+      "trips_m": 25.8477,
+      "nights_m": 87.438144,
+      "spend_b": 18.856929,
+      "trips_index": 99.46842958622878,
+      "spend_index": 121.7458604185589
+    },
+    "2022": {
+      "trips_m": 27.194080000000003,
+      "nights_m": 93.881365,
+      "spend_b": 23.958733,
+      "trips_index": 104.64963736201953,
+      "spend_index": 154.68460233495713
+    },
+    "2023": {
+      "trips_m": 27.451935000000002,
+      "nights_m": 88.704187,
+      "spend_b": 23.749735,
+      "trips_index": 105.64192804594721,
+      "spend_index": 153.33524999154227
+    },
+    "2024": {
+      "trips_m": 26.930537,
+      "nights_m": 88.11949800000001,
+      "spend_b": 24.289276,
+      "trips_index": 103.63545782811734,
+      "spend_index": 156.8186848221072
+    },
+    "2025": {
+      "trips_m": 27.641983,
+      "nights_m": 90.49816,
+      "spend_b": 25.193517,
+      "trips_index": 106.37328039474431,
+      "spend_index": 162.6567297429285
+    },
+    "2026": {
+      "trips_m": 27.08104,
+      "nights_m": 89.04171000000001,
+      "spend_b": 25.733608,
+      "trips_index": 104.21463110303219,
+      "spend_index": 166.14371553469343
+    }
+  },
+  "latest_state_ratios": [
+    {
+      "abbr": "ACT",
+      "nights_per_resident": 2.9845282926390944,
+      "average_nights": 2.8943925437250084,
+      "spend_per_visit": 989.6418619297825
+    },
+    {
+      "abbr": "NSW",
+      "nights_per_resident": 3.1969945000666082,
+      "average_nights": 2.9606333072713054,
+      "spend_per_visit": 803.1931324420974
+    },
+    {
+      "abbr": "NT",
+      "nights_per_resident": 4.313541515587637,
+      "average_nights": 4.19531100236186,
+      "spend_per_visit": 1637.481598831006
+    },
+    {
+      "abbr": "QLD",
+      "nights_per_resident": 3.7656832235640247,
+      "average_nights": 3.3990387760750855,
+      "spend_per_visit": 1000.7555169723962
+    },
+    {
+      "abbr": "SA",
+      "nights_per_resident": 3.0830180568395003,
+      "average_nights": 3.2324255553300802,
+      "spend_per_visit": 984.2192232188714
+    },
+    {
+      "abbr": "TAS",
+      "nights_per_resident": 4.216671172792415,
+      "average_nights": 3.6131420358631114,
+      "spend_per_visit": 1047.6871362632953
+    },
+    {
+      "abbr": "VIC",
+      "nights_per_resident": 2.814345405320859,
+      "average_nights": 2.757752702185375,
+      "spend_per_visit": 766.68869550687
+    },
+    {
+      "abbr": "WA",
+      "nights_per_resident": 2.759386439344466,
+      "average_nights": 3.544157226557639,
+      "spend_per_visit": 1156.9735123842836
+    }
+  ],
+  "spending_change_m": 540.0910000000003,
+  "source_checks": "Passed: 72 state/national records, source units, purpose labels, current travel mix and expenditure reconciliation."
+}

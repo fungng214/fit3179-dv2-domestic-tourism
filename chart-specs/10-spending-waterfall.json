@@ -1,0 +1,225 @@
+{
+  "data": {
+    "values": [
+      {
+        "group": "Accommodation",
+        "order": 0,
+        "start": 0,
+        "end": 455.1869999999999,
+        "change": 455.1869999999999,
+        "kind": "Increase",
+        "period": "April–June 2026 minus April–June 2025"
+      },
+      {
+        "group": "Airfares",
+        "order": 1,
+        "start": 455.1869999999999,
+        "end": 435.8319999999999,
+        "change": -19.355000000000018,
+        "kind": "Decrease",
+        "period": "April–June 2026 minus April–June 2025"
+      },
+      {
+        "group": "Meals",
+        "order": 2,
+        "start": 435.8319999999999,
+        "end": 419.71100000000024,
+        "change": -16.12099999999964,
+        "kind": "Decrease",
+        "period": "April–June 2026 minus April–June 2025"
+      },
+      {
+        "group": "Petrol",
+        "order": 3,
+        "start": 419.71100000000024,
+        "end": 367.2420000000002,
+        "change": -52.46900000000005,
+        "kind": "Decrease",
+        "period": "April–June 2026 minus April–June 2025"
+      },
+      {
+        "group": "Groceries",
+        "order": 4,
+        "start": 367.2420000000002,
+        "end": 416.9000000000003,
+        "change": 49.65800000000013,
+        "kind": "Increase",
+        "period": "April–June 2026 minus April–June 2025"
+      },
+      {
+        "group": "Shopping",
+        "order": 5,
+        "start": 416.9000000000003,
+        "end": 208.85000000000014,
+        "change": -208.05000000000018,
+        "kind": "Decrease",
+        "period": "April–June 2026 minus April–June 2025"
+      },
+      {
+        "group": "Drinks",
+        "order": 6,
+        "start": 208.85000000000014,
+        "end": 74.92300000000023,
+        "change": -133.9269999999999,
+        "kind": "Decrease",
+        "period": "April–June 2026 minus April–June 2025"
+      },
+      {
+        "group": "Other spending",
+        "order": 7,
+        "start": 74.92300000000023,
+        "end": 540.0910000000013,
+        "change": 465.16800000000103,
+        "kind": "Increase",
+        "period": "April–June 2026 minus April–June 2025"
+      },
+      {
+        "group": "Net change",
+        "order": 8,
+        "start": 0,
+        "end": 540.0910000000003,
+        "change": 540.0910000000003,
+        "kind": "Net change",
+        "period": "April–June 2026 minus April–June 2025"
+      }
+    ]
+  },
+  "height": 290,
+  "encoding": {
+    "x": {
+      "field": "group",
+      "type": "nominal",
+      "sort": {
+        "field": "order"
+      },
+      "axis": {
+        "title": null,
+        "labelAngle": -25,
+        "labelLimit": 220
+      }
+    },
+    "tooltip": [
+      {
+        "field": "period",
+        "title": "Period",
+        "type": "nominal"
+      },
+      {
+        "field": "group",
+        "title": "Spending category",
+        "type": "nominal"
+      },
+      {
+        "field": "change",
+        "title": "Change · AUD million",
+        "type": "quantitative",
+        "format": "+.1f"
+      },
+      {
+        "field": "end",
+        "title": "Running change · AUD million",
+        "type": "quantitative",
+        "format": "+.1f"
+      }
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "size": 50,
+        "cornerRadius": 2
+      },
+      "encoding": {
+        "y": {
+          "field": "start",
+          "type": "quantitative",
+          "axis": {
+            "title": "Cumulative change · AUD million"
+          }
+        },
+        "y2": {
+          "field": "end"
+        },
+        "color": {
+          "field": "kind",
+          "scale": {
+            "domain": [
+              "Increase",
+              "Decrease",
+              "Net change"
+            ],
+            "range": [
+              "#17665b",
+              "#bc8246",
+              "#486b99"
+            ]
+          },
+          "legend": {
+            "title": null
+          }
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "dy": -10,
+        "fontSize": 12
+      },
+      "encoding": {
+        "y": {
+          "field": "end",
+          "type": "quantitative"
+        },
+        "text": {
+          "field": "change",
+          "format": "+.0f"
+        }
+      }
+    }
+  ],
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Which expenditure categories explain the change between June quarters 2025 and 2026? Floating bars accumulate signed contributions to the net spending change. The common money unit makes contributions additive, and a separate final bar verifies their net effect.",
+  "width": 960,
+  "config": {
+    "background": "transparent",
+    "font": "Arial",
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "titleFontWeight": "normal",
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "gridColor": "#e3e8e1",
+      "domain": false,
+      "tickColor": "#c5cec7",
+      "labelPadding": 7,
+      "titlePadding": 13
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 12,
+      "labelColor": "#425753",
+      "titleColor": "#425753",
+      "orient": "bottom",
+      "titleFontWeight": "normal",
+      "titleLimit": 400,
+      "labelLimit": 210,
+      "padding": 8
+    },
+    "text": {
+      "font": "Arial",
+      "color": "#243b3a"
+    }
+  },
+  "padding": 10,
+  "autosize": {
+    "type": "fit-x",
+    "contains": "padding",
+    "resize": true
+  }
+}
